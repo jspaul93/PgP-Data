@@ -1,0 +1,47 @@
+{
+  "wheatland": [
+    "farrell",
+    "hermitage"
+  ],
+  "farrell": [
+    "wheatland",
+    "hermitage",
+    "sharon",
+    "brookfield"
+  ],
+  "hermitage": [
+    "wheatland",
+    "farrell",
+    "clark",
+    "sharon",
+    "brookfield",
+    "jefferson-twp",
+    "sharpsville"
+  ],
+  "clark": [
+    "hermitage",
+    "jefferson-twp"
+  ],
+  "west-middlesex": [],
+  "sharon": [
+    "farrell",
+    "hermitage",
+    "brookfield"
+  ],
+  "new-wilmington": [],
+  "brookfield": [
+    "farrell",
+    "hermitage",
+    "sharon"
+  ],
+  "hubbard": [],
+  "jefferson-twp": [
+    "hermitage",
+    "clark"
+  ],
+  "mercer": [],
+  "pymatuning-twp": [],
+  "sharpsville": [
+    "hermitage"
+  ]
+}
