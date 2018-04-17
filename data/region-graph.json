@@ -1,18 +1,18 @@
 {
   "new-wilmington": [
-    "shenango valley",
+    "shenango-valley",
     "mercer"
   ],
   "hubbard": [
-    "shenango valley"
+    "shenango-valley"
   ],
-  "shenango valley": [
+  "shenango-valley": [
     "new-wilmington",
     "hubbard",
     "mercer"
   ],
   "mercer": [
     "new-wilmington",
-    "shenango valley"
+    "shenango-valley"
   ]
 }
