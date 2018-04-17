@@ -989,7 +989,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>#shenango valley</name>
+        <name>#shenango-valley</name>
         <styleUrl>#poly-A52714-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
