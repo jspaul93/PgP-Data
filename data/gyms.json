@@ -18555,5 +18555,203 @@
         "Thelma\u0027s Sports Nook"
       ]
     }
+  },
+  {
+    "gymId": "1154739",
+    "gymName": "First Baptist Church of Greenville",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.406651,
+      "longitude": -80.387336
+    }
+  },
+  {
+    "gymId": "133819",
+    "gymName": "Railroad Park",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.407715,
+      "longitude": -80.381326
+    }
+  },
+  {
+    "gymId": "148469",
+    "gymName": "St. Michael\u0026#039;s Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.406181,
+      "longitude": -80.396747
+    }
+  },
+  {
+    "gymId": "19629",
+    "gymName": "West Salem Volunteer Fire Department",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.403704,
+      "longitude": -80.455914
+    }
+  },
+  {
+    "gymId": "421117",
+    "gymName": "US Post Office",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.404265,
+      "longitude": -80.388312
+    }
+  },
+  {
+    "gymId": "49508218",
+    "gymName": "Greenville Fire Department",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.404694,
+      "longitude": -80.381172
+    }
+  },
+  {
+    "gymId": "49508219",
+    "gymName": "Roth Hall",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.412649,
+      "longitude": -80.383421
+    }
+  },
+  {
+    "gymId": "49508220",
+    "gymName": "US Post Office - Thiel Campus,Packard Ave, Greenville",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.413611,
+      "longitude": -80.384444
+    }
+  },
+  {
+    "gymId": "49508221",
+    "gymName": "The Cardinal Cassidy Garden",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.413198,
+      "longitude": -80.384225
+    }
+  },
+  {
+    "gymId": "49508222",
+    "gymName": "Langheim Memorial Library",
+    "gymInfo": {
+      "gymDescription": "A part of Thiel College",
+      "latitude": 41.412417,
+      "longitude": -80.382872
+    }
+  },
+  {
+    "gymId": "49508223",
+    "gymName": "Riverside Park Graul Amphitheater",
+    "gymInfo": {
+      "gymDescription": "This amphitheater, having been built in 1934 by the WPA is hereby dedicated to the honor of Plimpton L. Graul.  For his vision and forsight, for his dedication and service, and for his love of Greenville and it\u0026#039;s people he will always be held in the highest regard.  The amphitheater is therefore named the Plimpton L. Graul Amphitheater on this seventh day of October ninteen hundred and ninety.",
+      "latitude": 41.411532,
+      "longitude": -80.391454
+    }
+  },
+  {
+    "gymId": "49508224",
+    "gymName": "Greenville Area Historical Society Museum",
+    "gymInfo": {
+      "gymDescription": "Established 1978",
+      "latitude": 41.403245,
+      "longitude": -80.393906
+    }
+  },
+  {
+    "gymId": "49508225",
+    "gymName": "Greenville Mural",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.404854,
+      "longitude": -80.390131
+    }
+  },
+  {
+    "gymId": "49508226",
+    "gymName": "Holy Trinity Luthern Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.405451,
+      "longitude": -80.385996
+    }
+  },
+  {
+    "gymId": "49508227",
+    "gymName": "Greenville Alliance Church ",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.42085,
+      "longitude": -80.379665
+    }
+  },
+  {
+    "gymId": "49508228",
+    "gymName": "Greenville Municipal Airport",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.448094,
+      "longitude": -80.398949
+    }
+  },
+  {
+    "gymId": "49508277",
+    "gymName": "Swing Men at Hempfield Park",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.379943,
+      "longitude": -80.332107
+    }
+  },
+  {
+    "gymId": "53826",
+    "gymName": "St.  Paul\u0026#039;s Fountain ",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.424365,
+      "longitude": -80.38922
+    }
+  },
+  {
+    "gymId": "53827",
+    "gymName": "Allegheny Wesleyan Methodist",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.48827, 
+      "longitude": -80.43884
+    }
+  },
+  {
+    "gymId": "53828",
+    "gymName": "Jamestown Presbyterian Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.48444, 
+      "longitude": -80.43603
+    }
+  },    
+  {
+    "gymId": "53829",
+    "gymName": "Stevenson Cemetery",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.45292,  
+      "longitude": -80.31422
+    }
+  }, 
+  {
+    "gymId": "53830",
+    "gymName": "Thiel College Softball Field",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.41365,  
+      "longitude": -80.39171
+    }
   }
 ]

@@ -269,6 +269,44 @@
         <styleUrl>#poly-A52714-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-E65100-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-E65100-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-E65100-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-E65100-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-E65100-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Folder>
       <name>Standard Gyms</name>
       <Placemark>
@@ -938,6 +976,213 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>First Baptist Church of Greenville</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.387336,41.406651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Railroad Park</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.381326,41.407715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Michael's Church]]></name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.396747,41.406181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Salem Volunteer Fire Department</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.455914,41.403704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.388312,41.404265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Fire Department</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.381172,41.404694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roth Hall</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.383421,41.412649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office - Thiel Campus,Packard Ave, Greenville</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.384444,41.413611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cardinal Cassidy Garden</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.384225,41.413198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langheim Memorial Library</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.382872,41.412417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riverside Park Graul Amphitheater</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.391454,41.411532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Area Historical Society Museum</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.393906,41.403245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Downtown Greenville Mural</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.390131,41.404854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holy Trinity Luthern Church</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.385996,41.405451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Alliance Church</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.379665,41.42085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Municipal Airport</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.398949,41.448094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swing Men at Hempfield Park</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3319353,41.379943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Paul's Fountain]]></name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.38922,41.424365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thiel College Softball Field</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.391713,41.413656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stevenson Cemetery</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.314223,41.452926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allegheny Wesleyan Methodist</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.438842,41.488271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mark Twain Manor/Gibson House</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.439499,41.484667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jamestown Presbyterian Church</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.436039,41.484442,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>REGIONAL RAID CHANNELS</name>
@@ -989,7 +1234,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>#shenango valley</name>
+        <name>#shenango-valley</name>
         <styleUrl>#poly-A52714-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -1029,6 +1274,27 @@
                 -80.2250863,41.2418037,0
                 -80.3855699,41.2626392,0
                 -80.3855824,41.2003703,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>#greenville</name>
+        <styleUrl>#poly-E65100-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.4429245,41.4936638,0
+                -80.4419021,41.4815598,0
+                -80.4573151,41.4089976,0
+                -80.4638672,41.3999904,0
+                -80.3220749,41.3713983,0
+                -80.3042221,41.4563651,0
+                -80.3128052,41.461511,0
+                -80.4429245,41.4936638,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
