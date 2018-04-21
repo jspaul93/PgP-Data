@@ -1,9 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>SV - Shadow Alliance Gym Locator for Discord</name>
+    <name>Mercer County SV - Shadow Alliance Gym Locator for Discord</name>
     <description/>
-    <Style id="icon-1739-097138-nodesc-normal">
+    <Style id="icon-1713-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1713-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1713-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1713-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1713-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1720-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1720-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1720-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1720-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1720-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1720-097138-nodesc-normal">
       <IconStyle>
         <color>ff387109</color>
         <scale>1</scale>
@@ -18,7 +86,7 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1739-097138-nodesc-highlight">
+    <Style id="icon-1720-097138-nodesc-highlight">
       <IconStyle>
         <color>ff387109</color>
         <scale>1</scale>
@@ -33,19 +101,19 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1739-097138-nodesc">
+    <StyleMap id="icon-1720-097138-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1739-097138-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1720-097138-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1739-097138-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1720-097138-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1739-757575-normal">
+    <Style id="icon-1739-000000-normal">
       <IconStyle>
-        <color>ff757575</color>
+        <color>ff000000</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -55,9 +123,9 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <Style id="icon-1739-757575-highlight">
+    <Style id="icon-1739-000000-highlight">
       <IconStyle>
-        <color>ff757575</color>
+        <color>ff000000</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -67,19 +135,19 @@
         <scale>1</scale>
       </LabelStyle>
     </Style>
-    <StyleMap id="icon-1739-757575">
+    <StyleMap id="icon-1739-000000">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1739-757575-normal</styleUrl>
+        <styleUrl>#icon-1739-000000-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1739-757575-highlight</styleUrl>
+        <styleUrl>#icon-1739-000000-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1739-757575-nodesc-normal">
+    <Style id="icon-1739-000000-nodesc-normal">
       <IconStyle>
-        <color>ff757575</color>
+        <color>ff000000</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -92,9 +160,9 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1739-757575-nodesc-highlight">
+    <Style id="icon-1739-000000-nodesc-highlight">
       <IconStyle>
-        <color>ff757575</color>
+        <color>ff000000</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -107,14 +175,52 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1739-757575-nodesc">
+    <StyleMap id="icon-1739-000000-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1739-757575-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1739-000000-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1739-757575-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1739-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-0F9D58-1200-77-nodesc-normal">
@@ -308,883 +414,6 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Standard Gyms</name>
-      <Placemark>
-        <name>Little Lending Library</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.4832066,41.246787,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Miracle Valley Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.4474574,41.262469,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Jefferson Township Park</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.3310978,41.2480717,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Westminster College (Fractured Grape)</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.332974,41.1225398,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Hoyt Winter Cat Painting (Hoyt Science Center)</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.3286919,41.1192281,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Maple Grove Mennonite Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.3231934,41.092595,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Volant Fire Department</name>
-        <description>Good luck getting reception here.</description>
-        <styleUrl>#icon-1739-757575</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2577461,41.112781,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pulaski Presbyterian Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.4337527,41.1120232,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bessie</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2386153,41.2211075,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>In Honor of Mercer County Fallen Heroes Global War in Terror</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2383766,41.2264516,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mercer Mercantile Store</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2377328,41.2271234,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>General Hugh Mercer</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2387816,41.2271678,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Brandy Springs Dog Park</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2445215,41.2192474,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Brandy Springs Rotary Club Pavilion</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2469355,41.2203772,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bible Baptist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.2170557,41.2196287,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Hubbard Public Library</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.5774641,41.1565404,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Wetlands Are Important to Watersheds</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.4812425,41.2451192,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Sharpsville Municipal Building</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.475626,41.2635295,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>The Church of Christ</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.444577,41.228263,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[St. John's Orthodox Cemetery]]></name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.451587,41.225491,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Green Checkmark Statue</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.450973,41.231739,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[Yellow "M" at First National Bank]]></name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.448783,41.232798,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[St. Jude's Episcopal Church]]></name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.415999,41.235938,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Whispering Pines Community Park</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.408806,41.237315,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Shenango Valley Masonic Lodge</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.396732,41.23648,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>War on Terror Veterans Memorial</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.461055,41.236142,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>St. Michael Memorial Statue </name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.468139,41.238206,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>ST. Rose Cemetery</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.456393,41.244858,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Hermitage Municipal Building Waterfall</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.449666,41.244181,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Clark Borough Public Park</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.416481,41.277894,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Albert Bushnell Hart</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.42875,41.283344,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>The Tara</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.428428,41.283729,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>US Post Office</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.42603,41.28325,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Seth Myers Nature Trail</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.461445,41.269076,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Erie Extension Canal</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.471093,41.267779,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>US Post Office, E Shenango St, Sharpsville</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.475009,41.265086,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Saint Bartholomew Roman Catholic Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.478703,41.261198,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Acker Gazebo</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.473768,41.248605,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Buhl Park Casino</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.482944,41.248661,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Statutes of Frank H and Julia F.Buhl</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.482968,41.243152,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Church of the Sacred Heart</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.513991,41.232717,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>First United Methodist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.51289,41.233713,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Christmas Torch</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.509749,41.232823,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Winner International</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.509457,41.233236,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Sharon Hall</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.509522,41.235114,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Nittany Lion</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.508972,41.235633,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Covenant Presbyterian Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.504447,41.23304,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Sharon American Legion War Memorial</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.499376,41.233102,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Sts. Peter and Paul Lutheran Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.493219,41.223328,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>St. Anthonys</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.494202,41.216471,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Second Baptist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.503148,41.219966,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>New Hope Baptist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.504751,41.215047,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Jesus Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.500185,41.214821,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Greek Orthodox Church of Annunciation</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.496484,41.210961,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Our Lady Of Fatima Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.501267,41.21187,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>NLMK Circles Statue</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.506168,41.211783,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Wheatland- Farrell United Methodist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.495212,41.202897,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>American Legion - Post 432</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.492146,41.200724,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>First Baptist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.435023,41.329006,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>US Post Office, West Middlesex</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.457698,41.172807,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Brookfield Gazebo</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.568035,41.23304,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Brookfield Cemetery</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.565728,41.229811,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Walk of Life Garden</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.555956,41.21725,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[Al's Pub & Grille]]></name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.568835,41.16297,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Central Christian Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.568986,41.155402,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>First United Methodist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.570314,41.15511,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calvary Baptist Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.571631,41.15507,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Optimist Bocci Court</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.562158,41.140849,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>McGuffey Wildlife Preserve</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.559629,41.119276,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>New Wilmington Alliance Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.335708,41.123118,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>RV Village Pavillion</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.281836,41.247327,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>I Smell Honey</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.259753,41.225938,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Spruce Cove Pavilion</name>
-        <styleUrl>#icon-1739-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.460474,41.270572,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Budd Street Public Park and Canoe Launch</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.510285,41.226607,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>First Baptist Church of Greenville</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.387336,41.406651,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Railroad Park</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.381326,41.407715,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[St. Michael's Church]]></name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.396747,41.406181,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>West Salem Volunteer Fire Department</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.455914,41.403704,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>US Post Office</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.388312,41.404265,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Greenville Fire Department</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.381172,41.404694,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Roth Hall</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.383421,41.412649,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>US Post Office - Thiel Campus,Packard Ave, Greenville</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.384444,41.413611,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>The Cardinal Cassidy Garden</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.384225,41.413198,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Langheim Memorial Library</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.382872,41.412417,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Riverside Park Graul Amphitheater</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.391454,41.411532,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Greenville Area Historical Society Museum</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.393906,41.403245,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Downtown Greenville Mural</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.390131,41.404854,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Holy Trinity Luthern Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.385996,41.405451,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Greenville Alliance Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.379665,41.42085,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Greenville Municipal Airport</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.398949,41.448094,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Swing Men at Hempfield Park</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.3319353,41.379943,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[St. Paul's Fountain]]></name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.38922,41.424365,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Thiel College Softball Field</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.391713,41.413656,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Stevenson Cemetery</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.314223,41.452926,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Allegheny Wesleyan Methodist</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.438842,41.488271,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mark Twain Manor/Gibson House</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.439499,41.484667,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Jamestown Presbyterian Church</name>
-        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.436039,41.484442,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
       <name>REGIONAL RAID CHANNELS</name>
       <Placemark>
         <name>#new-wilmington</name>
@@ -1194,21 +423,21 @@
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                -80.3855824,41.2003703,0
-                -80.4521942,41.16024,0
+                -80.442574,41.127225,0
                 -80.4387343,41.1097345,0
                 -80.3337295,41.0919221,0
                 -80.3230262,41.0910923,0
-                -80.2547801,41.1105197,0
-                -80.2135096,41.2186958,0
-                -80.3855824,41.2003703,0
+                -80.2374423,41.1153697,0
+                -80.2584402,41.1177918,0
+                -80.2588576,41.1275418,0
+                -80.442574,41.127225,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>#hubbard</name>
+        <name>#brookfield-hubbard</name>
         <styleUrl>#poly-9C27B0-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -1224,7 +453,11 @@
                 -80.5366516,41.1369728,0
                 -80.5184344,41.1458517,0
                 -80.5190943,41.1795469,0
-                -80.5496072,41.188524,0
+                -80.5192417,41.2682893,0
+                -80.552542,41.2737293,0
+                -80.579274,41.2728969,0
+                -80.579893,41.2497353,0
+                -80.5832081,41.2290455,0
                 -80.5849327,41.1704415,0
                 -80.5982141,41.1640483,0
                 -80.6070328,41.1581075,0
@@ -1241,21 +474,16 @@
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                -80.5829143,41.236253,0
-                -80.5832081,41.2290455,0
-                -80.5496072,41.188524,0
+                -80.5189146,41.1689652,0
+                -80.5190132,41.1267647,0
+                -80.385797,41.1272169,0
+                -80.3855699,41.2626392,0
+                -80.3852379,41.3301467,0
+                -80.4347141,41.3325043,0
+                -80.51863,41.3329495,0
+                -80.5192417,41.2682893,0
                 -80.5190943,41.1795469,0
                 -80.5189146,41.1689652,0
-                -80.4521942,41.16024,0
-                -80.3855824,41.2003703,0
-                -80.3855699,41.2626392,0
-                -80.4347141,41.3325043,0
-                -80.4883284,41.2798318,0
-                -80.5192417,41.2682893,0
-                -80.552542,41.2737293,0
-                -80.579274,41.2728969,0
-                -80.579893,41.2497353,0
-                -80.5829143,41.236253,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1270,8 +498,13 @@
               <tessellate>1</tessellate>
               <coordinates>
                 -80.3855824,41.2003703,0
-                -80.2135096,41.2186958,0
-                -80.2250863,41.2418037,0
+                -80.385797,41.1272169,0
+                -80.2588576,41.1275418,0
+                -80.151906,41.1755369,0
+                -80.0030457,41.242057,0
+                -80.0049361,41.3210902,0
+                -80.1292992,41.3189467,0
+                -80.3852379,41.3301467,0
                 -80.3855699,41.2626392,0
                 -80.3855824,41.2003703,0
               </coordinates>
@@ -1280,25 +513,1212 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>#greenville</name>
+        <name>#greenville-sandylake</name>
         <styleUrl>#poly-E65100-1200-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                -80.4429245,41.4936638,0
-                -80.4419021,41.4815598,0
-                -80.4573151,41.4089976,0
-                -80.4638672,41.3999904,0
-                -80.3220749,41.3713983,0
-                -80.3042221,41.4563651,0
-                -80.3128052,41.461511,0
-                -80.4429245,41.4936638,0
+                -80.4448194,41.492209,0
+                -80.4443454,41.4871127,0
+                -80.519099,41.4890348,0
+                -80.5195282,41.3721712,0
+                -80.5191021,41.3208642,0
+                -80.3853425,41.3131836,0
+                -80.259889,41.3059709,0
+                -80.1291702,41.3189467,0
+                -80.0048063,41.3212191,0
+                -80.0090283,41.4902005,0
+                -80.1252708,41.4866664,0
+                -80.1253078,41.480451,0
+                -80.2900169,41.4841482,0
+                -80.4310623,41.4869483,0
+                -80.4310332,41.4892283,0
+                -80.4327475,41.4879641,0
+                -80.4323567,41.4886746,0
+                -80.4330021,41.4887051,0
+                -80.4313349,41.4898341,0
+                -80.4318993,41.4920882,0
+                -80.4448194,41.492209,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>#grove-city</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.2584402,41.1177918,0
+                -80.1481274,41.1051217,0
+                -80.0983517,41.0726028,0
+                -80.0013686,41.1715798,0
+                -80.0030457,41.242057,0
+                -80.2588576,41.1275418,0
+                -80.2584402,41.1177918,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Standard Gyms</name>
+      <Placemark>
+        <name>Jefferson Township Park</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3310978,41.2480717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westminster College (Fractured Grape)</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.332974,41.1225398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoyt Winter Cat Painting (Hoyt Science Center)</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3286919,41.1192281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maple Grove Mennonite Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3231934,41.092595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Volant Fire Department</name>
+        <description>Good luck getting reception here.</description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2577461,41.112781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pulaski Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.4337527,41.1120232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bessie</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2386153,41.2211075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>In Honor of Mercer County Fallen Heroes Global War in Terror</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2383766,41.2264516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercer Mercantile Store</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2377328,41.2271234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>General Hugh Mercer</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2387816,41.2271678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bible Baptist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2170557,41.2196287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hubbard Public Library</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5774641,41.1565404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sharpsville Municipal Building</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.475626,41.2635295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Church of Christ</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.444577,41.228263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. John's Orthodox Cemetery]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.451587,41.225491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Jude's Episcopal Church]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.415999,41.235938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shenango Valley Masonic Lodge</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.396732,41.23648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>War on Terror Veterans Memorial</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.461055,41.236142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Michael Memorial Statue </name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.468139,41.238206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ST. Rose Cemetery</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.456393,41.244858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albert Bushnell Hart</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.42875,41.283344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tara</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.428428,41.283729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.42603,41.28325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Erie Extension Canal</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.471093,41.267779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office, E Shenango St, Sharpsville</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.475009,41.265086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Bartholomew Roman Catholic Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.478703,41.261198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Church of the Sacred Heart</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.513991,41.232717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First United Methodist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.51289,41.233713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christmas Torch</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.509749,41.232823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winner International</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.509457,41.233236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sharon Hall</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.509522,41.235114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nittany Lion</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.508972,41.235633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Covenant Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.504447,41.23304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sts. Peter and Paul Lutheran Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.493219,41.223328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Anthonys</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.494202,41.216471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Second Baptist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.503148,41.219966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Hope Baptist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.504751,41.215047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jesus Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.500185,41.214821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greek Orthodox Church of Annunciation</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.496484,41.210961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Our Lady Of Fatima Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.501267,41.21187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NLMK Circles Statue</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.506168,41.211783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wheatland- Farrell United Methodist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.495212,41.202897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Legion - Post 432</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.492146,41.200724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First Baptist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.435023,41.329006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office, West Middlesex</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.457698,41.172807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brookfield Cemetery</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.565728,41.229811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walk of Life Garden</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.555956,41.21725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Al's Pub & Grille]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.568835,41.16297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Christian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.568986,41.155402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First United Methodist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.570314,41.15511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calvary Baptist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.571631,41.15507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Wilmington Alliance Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.335708,41.123118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RV Village Pavillion</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.281836,41.247327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>I Smell Honey</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.259753,41.225938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Budd Street Public Park and Canoe Launch</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.510285,41.226607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First Baptist Church of Greenville</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.387336,41.406651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Michael's Church]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.396747,41.406181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Salem Volunteer Fire Department</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.455914,41.403704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.388312,41.404265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Fire Department</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.381172,41.404694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roth Hall</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.383421,41.412649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office - Thiel Campus,Packard Ave, Greenville</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.384444,41.413611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cardinal Cassidy Garden</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.384225,41.413198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langheim Memorial Library</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.382872,41.412417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Area Historical Society Museum</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.393906,41.403245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Downtown Greenville Mural</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.390131,41.404854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holy Trinity Luthern Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.385996,41.405451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Alliance Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.379665,41.42085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville Municipal Airport</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.398949,41.448094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swing Men at Hempfield Park</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3319353,41.379943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Paul's Fountain]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.38922,41.424365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stevenson Cemetery</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.314223,41.452926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allegheny Wesleyan Methodist</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.438842,41.488271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mark Twain Manor/Gibson House</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.439499,41.484667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jamestown Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.436039,41.484442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandy Lake Fire Department</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.082302,41.35129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["Freedom Road"]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.09748,41.335236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Columbkille Roman Catholic Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.104957,41.336196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.108383,41.339912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>James Sheakley</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.206452,41.44718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brad Holmes Memorial</name>
+        <description><![CDATA[Fireman Statue <br>Brad Holmes was a firefighter with Pine Twp. Engine Co. He was severely injured during a fire on February 29th 2008. He succumbed to those injuries 5 days later.]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -80.104613,41.154667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grow Your Mind</name>
+        <description>A tree in a skull represents a growing intellect</description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -80.087907,41.157549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grace United Methodist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.086323,41.159365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wagon Wheel of Steel</name>
+        <description>Sculpture</description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -80.087385,41.161407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grove City Watermill</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.156754,41.141147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beloved Disciple Catholic Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.110013,41.15519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracle Valley Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.4474574,41.262469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Theater Mask & Mural]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.086621,41.158537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grove City, Pa (1883)</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.087153,41.157194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gone Fishin</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.085338,41.159421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5 Flags</name>
+        <description>A tribute to the branches of the armed forces.</description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -80.107443,41.169125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wetlands at Grove City Outlets</name>
+        <description>Wetland marker and informational plague at the grove city prime outlets.</description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -80.157941,41.139237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grove City Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.156893,41.140125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grove City YMCA</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.073586,41.150134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baptist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.076927,41.138605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fellowship Community Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.08327,41.164501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Church of the Nazarene</name>
+        <description>Church</description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -80.083158,41.168192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jackson Center Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.138445,41.273174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fredonia United Methodist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.259904,41.319141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fredonia Tire Car Art</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.31813,41.331618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Park Gyms (Potential for EX)</name>
+      <Placemark>
+        <name>Thiel College Softball Field</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.391713,41.413656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cunningham Memorial Park</name>
+        <description>In 1798, on a nearby site, the first gristmill in this area was built by Valentine and Margaret Cunningham. Later another gristmill was established here. Soon a community was established. The town, first known as Pine Grove, was incorporated as the Borough of Grove City in 1883. In 1908 the mill was converted to become the first electric plant in Grove City.\u003cbr\u003e This marker donated by Grove City College, Charles S. MacKenzie, President, Dedicated 1982.</description>
+        <styleUrl>#icon-1720-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -80.085332,41.155587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praying Jesus Statue</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.084815,41.187591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riverside Park Graul Amphitheater</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.391454,41.411532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Railroad Park</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.381326,41.407715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spruce Cove Pavilion</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.460474,41.270572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McGuffey Wildlife Preserve</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.559629,41.119276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Optimist Bocci Court</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.562158,41.140849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brookfield Gazebo</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.568035,41.23304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sharon American Legion War Memorial</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.499376,41.233102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Statutes of Frank H and Julia F.Buhl</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.482968,41.243152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buhl Park Casino</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.482944,41.248661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Lending Library</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.4832066,41.246787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brandy Springs Dog Park</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2445215,41.2192474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brandy Springs Rotary Club Pavilion</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2469355,41.2203772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acker Gazebo</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.473768,41.248605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seth Myers Nature Trail</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.461445,41.269076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hermitage Municipal Building Waterfall</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.449666,41.244181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whispering Pines Community Park</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.408806,41.237315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Yellow "M" at First National Bank]]></name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.448783,41.232798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Checkmark Statue</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.450973,41.231739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wetlands Are Important to Watersheds</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.4812425,41.2451192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clark Borough Public Park</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.416481,41.277894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>EX Gyms</name>
+      <Placemark>
+        <name>Memorial Gardens</name>
+        <description>In memory of David E Horner</description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -80.103127,41.162043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grove City Honor Roll</name>
+        <description>Honor</description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -80.103162,41.165183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Civil War, 1812</name>
+        <description>Honor and glory to those who served in the United States</description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -80.103431,41.164929,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
   </Document>
