@@ -29957,6 +29957,475 @@
       ]
     }
   },
+  
+  {
+    "gymId": "651753",
+    "gymName": "Pythagorean &#928;",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.15606,
+      "longitude": -80.07868,
+      "addressComponents": [
+        {
+          "formattedAddress": "100 Campus Dr, Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "100",
+              "shortName": "100",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Campus Drive",
+              "shortName": "Campus Dr",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Mercer County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Youngstown-Warren-Boardman, OH-PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Youngstown-Warren-Boardman, OH-PA",
+              "shortName": "Youngstown-Warren-Boardman, OH-PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": []
+    }
+  },
+
+  {
+    "gymId": "651754",
+    "gymName": "Hall of Arts and Letters",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.15471,
+      "longitude": -80.07761,
+      "addressComponents": [
+        {
+          "formattedAddress": "Pinchalong Rd, Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "",
+              "shortName": "",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Pinchalong Road",
+              "shortName": "Pinchalong Rd",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Mercer County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Youngstown-Warren-Boardman, OH-PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Youngstown-Warren-Boardman, OH-PA",
+              "shortName": "Youngstown-Warren-Boardman, OH-PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": []
+    }
+  },
+  
   {
     "gymId": "651752",
     "gymName": "Fellowship Community Church",
