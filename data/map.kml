@@ -37,6 +37,46 @@
         <styleUrl>#icon-1713-817717-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1713-817717-nodesc-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1713-817717-nodesc-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1713-817717-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1713-817717-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1713-817717-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1720-097138-normal">
       <IconStyle>
         <color>ff387109</color>
@@ -221,6 +261,44 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-01579B-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-01579B-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-01579B-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-0F9D58-1200-77-nodesc-normal">
@@ -568,22 +646,28 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Hall of Arts and Letters</name>
-        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.07761,41.15471,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pythagorean π</name>
-        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.07868,41.15606,0
-          </coordinates>
-        </Point>
+        <name>#slippery-rock</name>
+        <styleUrl>#poly-01579B-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.0024414,41.2096553,0
+                -80.0013686,41.1715798,0
+                -80.0983517,41.0726028,0
+                -80.1481274,41.1051217,0
+                -80.2374423,41.1153697,0
+                -80.1586533,40.9682335,0
+                -80.1260943,40.9618136,0
+                -80.0897602,40.9654941,0
+                -79.8348999,40.9918196,0
+                -79.8851109,41.1921543,0
+                -80.0024414,41.2096553,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
       </Placemark>
     </Folder>
     <Folder>
@@ -1495,6 +1579,222 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Pythagorean π</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.07868,41.15606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hall of Arts and Letters</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.07761,41.15471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cooper's Lake Campground]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.137687,40.975755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slippery Rocks</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.056748,41.062826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Art Piece</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.044542,41.059757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Junior Rock</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.048615,41.060598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hickory Corner Schoolhouse</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.052433,41.061513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Main</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.051379,41.06136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SRU Waterfall</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.04451,41.06166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slippery Rock University Clock</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.042858,41.065025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Mac</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.035487,41.070427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trailhead Sign Deer Trail and Massasauga Trail</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.007573,41.011393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pavilion</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.00637,41.009923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trail Crossing - Blazing Star & Prairie Loop]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.006571,41.012178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Center Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.05502,41.064818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Country Trail Head</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.00189,41.012444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Washington Trail</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.009398,41.137514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borough of Harrisville PA</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.009145,41.136083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barkeysville Methodist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.976004,41.19149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harrisville Prairie Cemetery</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.003763,41.131014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boyers Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.899256,41.108542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Peter's Roman Catholic]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.050504,41.056282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Sunbury Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.89743,41.006163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pennsic Fort</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.139849,40.978754,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Park Gyms (Potential for EX)</name>
@@ -1736,6 +2036,15 @@
         <Point>
           <coordinates>
             -80.103431,41.164929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slippery Rock Community Library</name>
+        <styleUrl>#icon-1713-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.058349,41.067284,0
           </coordinates>
         </Point>
       </Placemark>

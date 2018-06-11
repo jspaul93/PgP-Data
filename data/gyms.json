@@ -30663,5 +30663,6000 @@
 		"True Convenience"
       ]
     }
-  }  
+  },  
+  {
+    "gymId": "122328",
+    "gymName": "Cooper\u0027s Lake Campground",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.975755,
+      "longitude": -80.137687,
+      "addressComponents": [
+        {
+          "formattedAddress": "200-224 Currie Rd, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "200-224",
+              "shortName": "200-224",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Currie Road",
+              "shortName": "Currie Rd",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Worth Township",
+              "shortName": "Worth Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Worth Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Worth Township",
+              "shortName": "Worth Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Bedford Shrine (occasional)",
+        "Cooper\u0027s Lake Event Venue and Campground",
+        "Penn Market",
+        "Pennsic Troll",
+        "Se Bf Cirner",
+        "Yama Kaminari"
+      ]
+    }
+  },
+  {
+    "gymId": "15479673",
+    "gymName": "Slippery Rocks",
+    "gymInfo": {
+      "gymDescription": "3D Sculpture",
+      "latitude": 41.062826,
+      "longitude": -80.056748,
+      "addressComponents": [
+        {
+          "formattedAddress": "143-165 Elm St, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "143-165",
+              "shortName": "143-165",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Elm Street",
+              "shortName": "Elm St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1522",
+              "shortName": "1522",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Allied Dental Group LLC",
+        "Allied Dental Group LLC: De Francesco Joseph G DDS",
+        "Ashleigh James Salon",
+        "Berkshire Hathaway HomeServices The Preferred Realty - Slippery Rock",
+        "Cherie Beth\u0027s Hair Boutique",
+        "Compadres Express Mexican Grill",
+        "Cultural Studies Academy, Inc.",
+        "E\u0026L Security Services LLC",
+        "Ginger Hill Unitarian Universalist Congregation",
+        "Hair Studio by Brenda",
+        "Institute for Learning in Retirement",
+        "Lynn Hopkins - State Farm Insurance Agent",
+        "Machen Donald DDS",
+        "Nash Law Office",
+        "Puff and Snuff Tobacco Shop",
+        "Rooter-Man",
+        "Sleep Dentistry Associates",
+        "Sustainable Enterprise Accelerator",
+        "Tevan Travel"
+      ]
+    }
+  },
+  {
+    "gymId": "15479689",
+    "gymName": "Art Piece",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.059757,
+      "longitude": -80.044542,
+      "addressComponents": [
+        {
+          "formattedAddress": "E Central Loop, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "East Central Loop",
+              "shortName": "E Central Loop",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Advanced Tecnology and Science",
+        "Government Contracting Asstc",
+        "Parking",
+        "Slippery Rock Secondary Campus"
+      ]
+    }
+  },
+  {
+    "gymId": "15479693",
+    "gymName": "Junior Rock",
+    "gymInfo": {
+      "gymDescription": "Custom rock piece for slippery rock university the rock is nearly a perfect sphere symbolizing a junior 3 of 4",
+      "latitude": 41.060598,
+      "longitude": -80.048615,
+      "addressComponents": [
+        {
+          "formattedAddress": "100 Service Dr, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "100",
+              "shortName": "100",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Service Drive",
+              "shortName": "Service Dr",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Dr. Joanne Leight",
+        "Parking",
+        "Rhoads Hall",
+        "Weisenfluh Dining Hall"
+      ]
+    }
+  },
+  {
+    "gymId": "15479714",
+    "gymName": "Hickory Corner Schoolhouse",
+    "gymInfo": {
+      "gymDescription": "1891-1963",
+      "latitude": 41.061513,
+      "longitude": -80.052433,
+      "addressComponents": [
+        {
+          "formattedAddress": "Footway5, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Footway5",
+              "shortName": "Footway5",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": []
+    }
+  },
+  {
+    "gymId": "15479731",
+    "gymName": "Old Main",
+    "gymInfo": {
+      "gymDescription": "This Building Handles Student Accounts and Bills as Well as All Administration Dealings Pertaining to Slippery Rock University",
+      "latitude": 41.06136,
+      "longitude": -80.051379,
+      "addressComponents": [
+        {
+          "formattedAddress": "Old Main, 104 Maltby Ave, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Old Main",
+              "shortName": "Old Main",
+              "types": [
+                "PREMISE"
+              ]
+            },
+            {
+              "longName": "104",
+              "shortName": "104",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Maltby Avenue",
+              "shortName": "Maltby Ave",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Old Main Loop, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Old Main Loop",
+              "shortName": "Old Main Loop",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Old Main"
+      ]
+    }
+  },
+  {
+    "gymId": "15479746",
+    "gymName": "SRU Waterfall",
+    "gymInfo": {
+      "gymDescription": "Custom made waterfall on Slippery Rock University campus.",
+      "latitude": 41.06166,
+      "longitude": -80.04451,
+      "addressComponents": [
+        {
+          "formattedAddress": "E Central Loop, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "East Central Loop",
+              "shortName": "E Central Loop",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Bailey Library",
+        "Parking",
+        "Slippery Rock Planetarium",
+        "Vincent Science Center"
+      ]
+    }
+  },
+  {
+    "gymId": "15479751",
+    "gymName": "Slippery Rock University Clock",
+    "gymInfo": {
+      "gymDescription": "Clock directly outside of Watson Hall",
+      "latitude": 41.065025,
+      "longitude": -80.042858,
+      "addressComponents": [
+        {
+          "formattedAddress": "350 Rock Pride Dr, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "350",
+              "shortName": "350",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Rock Pride Drive",
+              "shortName": "Rock Pride Dr",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Robert J. Watson Hall, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Resident Suites - Robert J. Watson Hall",
+              "shortName": "Robert J. Watson Hall",
+              "types": [
+                "PREMISE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Building E",
+        "Parking",
+        "Residence Hall A",
+        "Residence Suites Building D",
+        "Rock Apartments",
+        "Slippery Rock Disc Golf Course",
+        "Watson Hall"
+      ]
+    }
+  },
+  {
+    "gymId": "15479755",
+    "gymName": "The Mac",
+    "gymInfo": {
+      "gymDescription": "Dr. James McFaeland Center",
+      "latitude": 41.070427,
+      "longitude": -80.035487,
+      "addressComponents": [
+        {
+          "formattedAddress": "298 Harmony Rd, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "298",
+              "shortName": "298",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Harmony Road",
+              "shortName": "Harmony Rd",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock Township",
+              "shortName": "Slippery Rock Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Dr. James P McFarland Recreational Sports Complex",
+        "Intramural Fields",
+        "Macoskey Center Sanctuary",
+        "Miller School",
+        "Plus Sixty Senior Center",
+        "Slippery Rock Township Municipal Building",
+        "Slippery Rock Twp Maintenance"
+      ]
+    }
+  },
+  {
+    "gymId": "15479763",
+    "gymName": "Trailhead Sign Deer Trail and Massasauga Trail",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.011393,
+      "longitude": -80.007573,
+      "addressComponents": [
+        {
+          "formattedAddress": "Blazing Star Trail, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Blazing Star Trail",
+              "shortName": "Blazing Star Trail",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Brady Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Blazing Star Prairie"
+      ]
+    }
+  },
+  {
+    "gymId": "15479775",
+    "gymName": "Pavilion",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.009923,
+      "longitude": -80.00637,
+      "addressComponents": [
+        {
+          "formattedAddress": "Blazing Star Trail, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Blazing Star Trail",
+              "shortName": "Blazing Star Trail",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Brady Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Blazing Star Prairie"
+      ]
+    }
+  },
+  {
+    "gymId": "15479791",
+    "gymName": "Trail Crossing - Blazing Star \u0026 Prairie Loop",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.012178,
+      "longitude": -80.006571,
+      "addressComponents": [
+        {
+          "formattedAddress": "Blazing Star Trail, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Blazing Star Trail",
+              "shortName": "Blazing Star Trail",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Brady Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Blazing Star Prairie"
+      ]
+    }
+  },
+  {
+    "gymId": "15479809",
+    "gymName": "Center Presbyterian Church",
+    "gymInfo": {
+      "gymDescription": "Church",
+      "latitude": 41.064818,
+      "longitude": -80.05502,
+      "addressComponents": [
+        {
+          "formattedAddress": "200-228 Franklin St, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "200-228",
+              "shortName": "200-228",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Franklin Street",
+              "shortName": "PA-173",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1103",
+              "shortName": "1103",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Cassidy Insurance Group",
+        "Center Presbyterian Church PCUSA",
+        "Dance Center Studios",
+        "Edward Jones - Financial Advisor: Craig S Caldwell",
+        "Gfx Advertising",
+        "Grafix",
+        "JCCPIX",
+        "Kwik Fill",
+        "Mong Eric T DDS",
+        "Movin\u0027 Out",
+        "NexTier Bank - Slippery Rock Office",
+        "North Country Brewing Co",
+        "Shannon\u0027s Kandy Kitchen",
+        "Sheetz",
+        "Slippery Rock Counselling Services, LLC : Dr. Nancy Miller",
+        "Slippery Rock United Methodist Church",
+        "Tinker\u0027s Dam Florist \u0026 Gifts",
+        "Tri-County News",
+        "Ultimate Images Photography"
+      ]
+    }
+  },
+  {
+    "gymId": "256717",
+    "gymName": "North Country Trail Head",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.012444,
+      "longitude": -80.00189,
+      "addressComponents": [
+        {
+          "formattedAddress": "104-106 State Rte 1010, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "104-106",
+              "shortName": "104-106",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Hallston Road",
+              "shortName": "State Rte 1010",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Brady Township, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Brady Township",
+              "shortName": "Brady Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Old Stone House",
+        "Old Stone House Sanctuary"
+      ]
+    }
+  },
+  {
+    "gymId": "284892",
+    "gymName": "Washington Trail",
+    "gymInfo": {
+      "gymDescription": "Eat 1753",
+      "latitude": 41.137514,
+      "longitude": -80.009398,
+      "addressComponents": [
+        {
+          "formattedAddress": "112-116 PA-8, Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "112-116",
+              "shortName": "112-116",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "William Flynn Highway",
+              "shortName": "PA-8",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1906",
+              "shortName": "1906",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "ATM PNC Bank",
+        "Henry\u0027s Laser Car Wash",
+        "Hometown Hair",
+        "Jamison Funeral Home",
+        "Lisa\u0027s Family Hairstyling",
+        "Media Displays",
+        "SUBWAY®Restaurants",
+        "Sheetz"
+      ]
+    }
+  },
+  {
+    "gymId": "49034169",
+    "gymName": "Borough of Harrisville PA",
+    "gymInfo": {
+      "gymDescription": "Borough 2",
+      "latitude": 41.136083,
+      "longitude": -80.009145,
+      "addressComponents": [
+        {
+          "formattedAddress": "117 S Main St, Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "117",
+              "shortName": "117",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "South Main Street",
+              "shortName": "S Main St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Ad-Base Group",
+        "Barkeyville Municipal Authority",
+        "Clark \u0026 Co Apartments",
+        "Custom Service",
+        "First National Bank ATM",
+        "Harrisville Auto Sales",
+        "Harrisville Borough Council",
+        "Harrisville Municipal Building",
+        "Industrial Glass Svc LLC",
+        "Keystone Blind Associates",
+        "R \u0026 M Auto Repair",
+        "Ray Lewis \u0026 Co",
+        "Sign Artist",
+        "Strange Corporation Contractors",
+        "Travel Center-Barkeyville",
+        "United States Postal Service",
+        "Valenza Electric"
+      ]
+    }
+  },
+  {
+    "gymId": "49552041",
+    "gymName": "Barkeysville Methodist Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.19149,
+      "longitude": -79.976004,
+      "addressComponents": [
+        {
+          "formattedAddress": "5420 Pittsburgh Rd, Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "5420",
+              "shortName": "5420",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Pittsburgh Road",
+              "shortName": "Pittsburgh Rd",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Venango County",
+              "shortName": "Venango County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "3224",
+              "shortName": "3224",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Barkeyville, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Barkeyville",
+              "shortName": "Barkeyville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Venango County",
+              "shortName": "Venango County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Venango County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Venango County",
+              "shortName": "Venango County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Oil City, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Oil City, PA",
+              "shortName": "Oil City, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Venango County",
+              "shortName": "Venango County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Arby\u0027s",
+        "Barkeyville Church of God",
+        "Burger King",
+        "Diesel Injection \u0026 Parts-I-80",
+        "Fyda Freightliner Barkeyville",
+        "Gahr\u0027s Truck and Tire Service",
+        "Hanna Music Supply",
+        "ITC Crane Rental and Rigging",
+        "Industrial Truck \u0026 Crane, Inc.",
+        "Joseph Jenkins, Inc.",
+        "Kings Family Restaurants",
+        "Kwik-Fill Travel Plaza",
+        "Midwest Transport Inc",
+        "Motel 6 Barkeyville PA",
+        "Quality Inn",
+        "Rest Area Eastbound I80",
+        "TA Barkeyville",
+        "Team Hardinger",
+        "Ward Trucking Corporation"
+      ]
+    }
+  },
+  {
+    "gymId": "49552800",
+    "gymName": "Harrisville Prairie Cemetery",
+    "gymInfo": {
+      "gymDescription": "Est 1876",
+      "latitude": 41.131014,
+      "longitude": -80.003763,
+      "addressComponents": [
+        {
+          "formattedAddress": "381-427 Wick Ave, Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "381-427",
+              "shortName": "381-427",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Wick Avenue",
+              "shortName": "Wick Ave",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Mercer Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Mercer Township",
+              "shortName": "Mercer Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Harrisville, PA 16038, USA",
+          "addressComponents": [
+            {
+              "longName": "16038",
+              "shortName": "16038",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Harrisville",
+              "shortName": "Harrisville",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Harrisville Athletic Field",
+        "Harrisville Skate Park",
+        "Prairie Cemetery",
+        "St Anthony Cemetery"
+      ]
+    }
+  },
+  {
+    "gymId": "49552801",
+    "gymName": "Boyers Post Office",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.108542,
+      "longitude": -79.899256,
+      "addressComponents": [
+        {
+          "formattedAddress": "1188 Boyers Rd, Boyers, PA 16020, USA",
+          "addressComponents": [
+            {
+              "longName": "1188",
+              "shortName": "1188",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Boyers Road",
+              "shortName": "Boyers Rd",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Boyers",
+              "shortName": "Boyers",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Marion Township",
+              "shortName": "Marion Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16020",
+              "shortName": "16020",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "1188-1240 State Rte 4012, Boyers, PA 16020, USA",
+          "addressComponents": [
+            {
+              "longName": "1188-1240",
+              "shortName": "1188-1240",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "State Route 4012",
+              "shortName": "State Rte 4012",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Boyers",
+              "shortName": "Boyers",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Marion Township",
+              "shortName": "Marion Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16020",
+              "shortName": "16020",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1610",
+              "shortName": "1610",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Hilliards, PA 16040, USA",
+          "addressComponents": [
+            {
+              "longName": "16040",
+              "shortName": "16040",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Hilliards",
+              "shortName": "Hilliards",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Marion Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Marion Township",
+              "shortName": "Marion Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "ANNANDALE COUNTRY STA",
+        "Allegheny Mineral Corporation - Murrinsville Plant",
+        "Beran Environmental",
+        "Bob Mc Ginnis Taxidermy",
+        "Boyers Data Center",
+        "Boyers United Methodist Church Office",
+        "Corbis Corporation",
+        "DMDC",
+        "Dailey Tire And Auto",
+        "Defense Security Services",
+        "Marion Township Volunteer Fire Company Station 31",
+        "Marion Twp Secretary",
+        "McBride\u0027s Pizza Shop",
+        "Mellon Bank",
+        "Schoonover Services Corporation",
+        "US Office of Personnel Management’s Retirement Operations Center",
+        "US Steel Corporation",
+        "United States Postal Service"
+      ]
+    }
+  },
+  {
+    "gymId": "49621158",
+    "gymName": "St Peter\u0027s Roman Catholic",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.056282,
+      "longitude": -80.050504,
+      "addressComponents": [
+        {
+          "formattedAddress": "654 PA-173, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "654",
+              "shortName": "654",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Pennsylvania 173",
+              "shortName": "PA-173",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Donald Bertozzi \u0026 Son Builders",
+        "Fisher Donald C",
+        "GINGO 1",
+        "Grandview Development Group",
+        "JR Seligman Contracting LLC",
+        "Main Street Apartments",
+        "South Main Street Sanctuary",
+        "St. Peter Roman Catholic Church"
+      ]
+    }
+  },
+  {
+    "gymId": "561754",
+    "gymName": "West Sunbury Post Office",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.006163,
+      "longitude": -79.89743,
+      "addressComponents": [
+        {
+          "formattedAddress": "201 W State St, West Sunbury, PA 16061, USA",
+          "addressComponents": [
+            {
+              "longName": "201",
+              "shortName": "201",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "West State Street",
+              "shortName": "W State St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "West Sunbury",
+              "shortName": "West Sunbury",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16061",
+              "shortName": "16061",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "9800",
+              "shortName": "9800",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "West Sunbury, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "West Sunbury",
+              "shortName": "West Sunbury",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "West Sunbury, PA 16061, USA",
+          "addressComponents": [
+            {
+              "longName": "16061",
+              "shortName": "16061",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "West Sunbury",
+              "shortName": "West Sunbury",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "ATM Express",
+        "Love Learn And Play",
+        "St Alphonsus Parish",
+        "Thompson\u0027s Country Market",
+        "United States Postal Service",
+        "West Sunbury Athletic Park",
+        "West Sunbury Boro Office",
+        "William F. Young Funeral Home"
+      ]
+    }
+  },
+  {
+    "gymId": "6529894",
+    "gymName": "Pennsic Fort",
+    "gymInfo": {
+      "gymDescription": "This iconic fort façade stands before an open field at Cooper\u0027s Lake Campground. During the annual Pennsic wars, it hosts ceremonies and battles, both around the fort and on the open field.",
+      "latitude": 40.978754,
+      "longitude": -80.139849,
+      "addressComponents": [
+        {
+          "formattedAddress": "154 Currie Rd, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "154",
+              "shortName": "154",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Currie Road",
+              "shortName": "Currie Rd",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Worth Township",
+              "shortName": "Worth Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "4522",
+              "shortName": "4522",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Worth Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Worth Township",
+              "shortName": "Worth Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Freehold of the Riverkeep",
+        "Ne Corner Of Battlefield",
+        "Pennsic Fort"
+      ]
+    }
+  },
+  {
+    "gymId": "814304",
+    "gymName": "Slippery Rock Community Library",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.067284,
+      "longitude": -80.058349,
+      "addressComponents": [
+        {
+          "formattedAddress": "320 N Main St, Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "320",
+              "shortName": "320",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "North Main Street",
+              "shortName": "N Main St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1018",
+              "shortName": "1018",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Slippery Rock, PA 16057, USA",
+          "addressComponents": [
+            {
+              "longName": "16057",
+              "shortName": "16057",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Slippery Rock",
+              "shortName": "Slippery Rock",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Butler County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Butler County",
+              "shortName": "Butler County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pittsburgh Metropolitan Area",
+              "shortName": "Pittsburgh Metropolitan Area",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Slippery Rock Community Library",
+        "Slippery Rock Community Park"
+      ]
+    }
+  }
 ]
