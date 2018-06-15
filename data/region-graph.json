@@ -31,6 +31,10 @@
   ],
   "slippery-rock": [
     "new-wilmington",
-    "grove-city"
+    "grove-city",
+    "butler"
+  ],
+  "butler": [
+    "slippery-rock"
   ]
 }
