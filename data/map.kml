@@ -377,6 +377,44 @@
         <styleUrl>#poly-1A237E-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-817717-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-817717-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-817717-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-817717-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-817717-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-9C27B0-1200-77-nodesc-normal">
       <LineStyle>
         <color>ffb0279c</color>
@@ -658,12 +696,35 @@
                 -80.0983517,41.0726028,0
                 -80.1481274,41.1051217,0
                 -80.2374423,41.1153697,0
-                -80.1586533,40.9682335,0
-                -80.1260943,40.9618136,0
-                -80.0897602,40.9654941,0
-                -79.8348999,40.9918196,0
-                -79.8851109,41.1921543,0
+                -80.1617003,40.9731264,0
+                -79.8937798,40.9716035,0
+                -79.8964712,41.1082792,0
+                -79.9609146,41.1886675,0
+                -79.9734349,41.2027797,0
                 -80.0024414,41.2096553,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>#butler</name>
+        <styleUrl>#poly-817717-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.1793949,40.7657244,0
+                -80.0640525,40.7595661,0
+                -79.7605896,40.7626516,0
+                -79.7591118,40.7721547,0
+                -79.8751448,40.8720795,0
+                -79.8937798,40.9716035,0
+                -80.2170182,40.9732885,0
+                -80.2188197,40.9654941,0
+                -80.1743584,40.8443173,0
+                -80.1793949,40.7657244,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1795,6 +1856,771 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Zelienople Historical Society</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.136926,40.793016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>40.790909,-80.129163</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.129163,40.790909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Worship Portal</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.132579,40.787115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mother Mary Statue</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.762712,40.763715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cabot Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.767046,40.763982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dan Kocher Memorial Field</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.797823,40.7753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winfield Township Community Park</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.763559,40.773106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nixon United Methodist Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.944469,40.779954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Historic Barn Built in 1876</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.946794,40.785311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Broom Man Statue</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.937055,40.8,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>German Murray Field</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.130916,40.792336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mary</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.14323,40.789296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>George Washington Historical Marker</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.034162,40.786771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veterans Memorial</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.063448,40.761627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Johns United Church of Christ</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0585,40.770266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fallen Heroes Memorial</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.062421,40.769393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Washington's Trail]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.064847,40.768941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Evans City Historical Society</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.061171,40.768127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zelienople English Lutheran Church </name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.135688,40.7972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zelienople Fire Alarm Bell</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.137786,40.795743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Peter's Reformed Church]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.133628,40.797405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Young's Custard Stand]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.175012,40.768666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highfield Hall</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.935031,40.853845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Homeacre Chapel & Christian Academy]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.936103,40.860381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Legion Post 778</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.924629,40.852861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City of Butler South Side Memorial</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.888187,40.854921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Legion Post 117</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.89488,40.856614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Our Silent Defenders</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.89516,40.858434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Of Butler Clock</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.895384,40.860886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Chestnut Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.985371,40.89066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preston Park Memorial</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.951584,40.853131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. John's Picnic Pavilion]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.966943,40.863254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meridian Veterans Memorial Park</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.95654,40.855993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John V Ritts Memorial</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.894631,40.875241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flower Girl</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.919133,40.905395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Debbie Lee's Lion]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.988669,40.847919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mama Rosas Mural</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.908448,40.829261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cultural Center</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.913111,40.829623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>US Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.046852,40.904022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[McConnell's Mill State Park]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.167942,40.9511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zelienople Church of Christ</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.130548,40.807955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harmonist Cemetery</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.123655,40.801786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harmony Bell</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.128953,40.802537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harmony Fire Department</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.127656,40.802293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shever Bros Hardware</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.12554,40.803486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weavers Shop</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.126379,40.803336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harmony Moose Lodge</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.124464,40.803789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grace Church Clock Tower</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.128479,40.802328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bright Hope Community Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.966429,40.844878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinity Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.938637,40.871337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alameda Bocci Court</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.929473,40.879616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milwaukee Rail Car</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.91161,40.8541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spiderman Mural</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.022913,40.906323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butler Township Volunteer Fire Department</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.914026,40.851687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unionville United Presbyterian</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.956708,40.93853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butler War Memorial 1914-1918</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.905535,40.862335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First Baptist Church and Christian School </name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.897823,40.861651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Paul's United Church of Christ]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.011235,40.818514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Peter's Parish]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.89118,40.862222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butler Little Theater</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.894187,40.865643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Congregation B'nai Abraham]]></name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.894803,40.867647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butler City Building</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.896661,40.862514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big White Cock Statue</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.037751,40.910279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connoquenessing Water Tower</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.016291,40.8148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connoquenessing Post Office</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.014315,40.817391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hill United Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.884535,40.866186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southside Butler Watertower</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.88474,40.848695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chimney Swift Tower</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.881519,40.855339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zion Lutheran Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.121733,40.848411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bear Run Fishing Pier</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.106357,40.94932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Presbyterian Church Of Portersville</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.142377,40.925488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portersville Bible Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.137716,40.921888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Run United Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.169933,40.842893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fire House Shelter</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.908246,40.875639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mary At Calvary</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.900464,40.875428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McConnells Mill State Park</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.168767,40.958763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9/11 Memorial</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.908576,40.873358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BC3 Jeep</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.911525,40.828582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bloomfield school bell</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.120323,40.851196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green lawn Mausoleum </name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.99014,40.893448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prospect Ballfield</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.995213,40.9212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three Giraffe Statue </name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.21532,40.968201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rose Point Park</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.184024,40.971819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barkman Field</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.799477,40.775701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Succop Conservancy</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.931486,40.780052,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Park Gyms (Potential for EX)</name>
@@ -2048,6 +2874,18 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Sam Bucci Memorial Field</name>
+        <styleUrl>#icon-1713-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.128244,40.793373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
     </Folder>
   </Document>
 </kml>
