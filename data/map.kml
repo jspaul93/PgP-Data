@@ -2818,15 +2818,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hells Hollow</name>
-        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.240077,40.931425,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>St Anns Church Bell</name>
         <styleUrl>#icon-1739-000000-nodesc</styleUrl>
         <Point>
@@ -3114,6 +3105,61 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Darlington Fire Department
+</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.437397,40.807764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enon UP Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.456767,40.856275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milwaukee Rail Car</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.909804,40.852204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunken Garden</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.093265,40.941297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Playthings Etc.</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.96894,40.967197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>United Presbyterian Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.894505,41.007045,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Park Gyms (Potential for EX)</name>
@@ -3326,29 +3372,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Butler War Memorial 1914-1918</name>
-        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -79.905535,40.862335,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Barkman Field</name>
         <styleUrl>#icon-1720-097138-nodesc</styleUrl>
         <Point>
           <coordinates>
             -79.799477,40.775701,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Prospect Ballfield</name>
-        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -79.995213,40.9212,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3406,6 +3434,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Hells Hollow</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.240077,40.931425,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>EX Gyms</name>
@@ -3454,6 +3491,24 @@
         <Point>
           <coordinates>
             -80.128244,40.793373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prospect Ballfield</name>
+        <styleUrl>#icon-1713-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.995213,40.9212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butler War Memorial 1914-1918</name>
+        <styleUrl>#icon-1713-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.905535,40.862335,0
           </coordinates>
         </Point>
       </Placemark>

@@ -76050,5 +76050,60 @@
         "Valley View Cemetery"
       ]
     }
+  },
+  {
+    "gymId": "8246471",
+    "gymName": "United Presbyterian Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.00704,
+      "longitude": -79.8945,
+    }
+  },
+  {
+    "gymId": "8246472",
+    "gymName": "Playthings Etc.",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.96719,
+      "longitude": -79.96893,
+    }
+  },
+  {
+    "gymId": "8246473",
+    "gymName": "Playthings Etc.",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.94129,
+      "longitude": -80.09326,
+    }
+  },
+  {
+    "gymId": "8246474",
+    "gymName": "Milwaukee Rail Car",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.8522,
+      "longitude": -79.9098,
+    }
+  },
+  {
+    "gymId": "8246475",
+    "gymName": "Enon UP Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.85627,
+      "longitude": -80.45676,
+    }
+  },
+  {
+    "gymId": "8246476",
+    "gymName": "Darlington Fire Department",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.80776,
+      "longitude": -80.43739,
+    }
   }
+ 
 ]
