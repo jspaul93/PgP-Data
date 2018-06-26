@@ -78798,5 +78798,14 @@
         "Thelma\u0027s Sports Nook"
       ]
     }
+  },
+  {
+    "gymId": "844179",
+    "gymName": "Holy Trinity Evangelical Lutheran Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.158523,
+      "longitude": -80.097873
+	}
   }
 ]
