@@ -3134,15 +3134,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sunken Garden</name>
-        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            -80.093265,40.941297,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Playthings Etc.</name>
         <styleUrl>#icon-1739-000000-nodesc</styleUrl>
         <Point>
@@ -3157,6 +3148,15 @@
         <Point>
           <coordinates>
             -79.894505,41.007045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holy Trinity Evangelical Lutheran Church</name>
+        <styleUrl>#icon-1739-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.097873,41.158523,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3440,6 +3440,15 @@
         <Point>
           <coordinates>
             -80.240077,40.931425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunken Garden</name>
+        <styleUrl>#icon-1720-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.093265,40.941297,0
           </coordinates>
         </Point>
       </Placemark>
