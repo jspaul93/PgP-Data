@@ -8,11 +8,11 @@
       "longitude": -80.444577,
       "addressComponents": [
         {
-          "formattedAddress": "322 Sunset Blvd, Hermitage, PA 16148, USA",
+          "formattedAddress": "340 Sunset Blvd, Hermitage, PA 16148, USA",
           "addressComponents": [
             {
-              "longName": "322",
-              "shortName": "322",
+              "longName": "340",
+              "shortName": "340",
               "types": [
                 "STREET_NUMBER"
               ]
@@ -4959,7 +4959,8 @@
         }
       ],
       "places": [
-        "Old Main"
+        "Old Main",
+        "SRU Foundation, Inc."
       ]
     }
   },
@@ -7259,7 +7260,6 @@
       "places": [
         "Back To Harmony Chiropractic",
         "In-Synch Systems LLC",
-        "Insurance Services",
         "Kampas Orthodontics PC",
         "Kampas Orthodontics, P.C.",
         "Life Chiropractic",
@@ -7275,6 +7275,7 @@
         "Sweeney Patrick E DMD MD",
         "Zelienople Mausoleum",
         "Zelienople Smiles",
+        "butlerpainsurance",
         "triangle photography association"
       ]
     }
@@ -9444,6 +9445,7 @@
         "Raducz Stone Corporation",
         "Renfrew Park \u0026 Ride",
         "Sekaran S K MD",
+        "Stavac",
         "Towberman Alden",
         "Treasured Memories Quilting",
         "XTO Energy Penn Cryogenic Plant"
@@ -9698,6 +9700,7 @@
       ],
       "places": [
         "Alice\u0027s Pizza/Sweet Chessie\u0027s Bakery",
+        "Bible school",
         "Brandy L. Sanford, ATC",
         "Chiropractic Way,",
         "Chiropractic Way, Dr. Justin W. Sheffler",
@@ -12683,10 +12686,10 @@
         "Saints Peter and Paul Evangelical Lutheran Church",
         "Slovak Ladies Association",
         "Tony\u0027s Pizza \u0026 Pub",
+        "Veneer Production \u0026 Solutions",
         "Visiting Angels",
         "Whalen Law Offices",
         "Word Centered Presbyterian Church",
-        "Yarboro Sr Theodore L MD",
         "Zion Education Center"
       ]
     }
@@ -13660,7 +13663,7 @@
       ],
       "places": [
         "First Baptist Church",
-        "Sacred Heart Church"
+        "Living Hope Fellowship"
       ]
     }
   },
@@ -15005,7 +15008,6 @@
         "Burich Service",
         "City Of Farrell Police Department",
         "City Treasurer",
-        "Dr. Robert D. Multari, DO",
         "Farrell City Community Dev",
         "Farrell City Manager",
         "Farrell City Mayor",
@@ -15015,6 +15017,7 @@
         "Farrell Health Center: Abbott Bruce DPM",
         "Farrell Human Relations",
         "First General Services Of Western PA",
+        "Multari Robert D DO",
         "NAACP",
         "Our Lady of Fatima Church",
         "People In Need-Mercer County",
@@ -15771,12 +15774,12 @@
         "Chlpka Paul M MD",
         "Daffin\u0027s Candies",
         "Dancak Wendy CRNP",
-        "Dr. Laura M. Pesci, DO",
         "Elm Avenue Specialty Care",
         "First Presbyterian Church",
         "Helping Hands Pediatrics Inc",
         "Koi Plumbing",
         "Michaelene\u0027s Day Spa",
+        "Pesci Laura M DO",
         "Pregnancy Services-Western Pa",
         "Primary Health Network",
         "SUNOCO",
@@ -18100,10 +18103,10 @@
         }
       ],
       "places": [
-        "Dr. Korwin King-Grandview Dental",
         "English Evangelical Lutheran Church",
         "Glenn-Kildoo Funeral Home \u0026 Cremation Services, Inc. - Rachel J. Swink, Supervisor",
         "Griffin Insurance",
+        "King Korwin Dr-Grandview Dental",
         "Lope Casker Law Offices",
         "Park United Presbyterian Church",
         "R.E. Lane LLC",
@@ -20170,7 +20173,7 @@
         "Sharon Regional Health Systems: Ulewicz Dennis MD",
         "Stephen J Sherman Funeral Home",
         "Urology Center Inc",
-        "Urology Center Inc: Erdesky III John B"
+        "Urology Center Inc: Erdesky III John B Dr"
       ]
     }
   },
@@ -20432,10 +20435,6 @@
         "Shenango Valley Faith Academy",
         "St. Bartholomew Catholic Church",
         "St. Bartholomew Child Care Center",
-        "St Barts",
-        "St. Bart's",
-        "St Bart",
-        "St. Bart",		
         "Stitch Dazzle",
         "Transform! Counseling Center",
         "United Steelworkers",
@@ -21398,9 +21397,7 @@
         "Cole Law - Your Disability Partner",
         "Collins Robert L MD",
         "Dr. Bilal Sitwat, MD",
-        "Dr. Daniel A. Wecht, MD",
         "Fammartino, Joseph, Md - Vitreo Retinal Consultants",
-        "Gastroenterologist Dr. John Smith",
         "Hickory High School",
         "Joslin Center",
         "Materna Psychological Services, PC",
@@ -21408,8 +21405,10 @@
         "Roni Sue Rosati DDS",
         "Russell Wible DMD.",
         "Shannon Brian MD",
+        "Smith John Dr-Gastroenterologist",
         "University Pittsburgh Medical Center",
         "Upmc Horizon: Banks Virginia MD",
+        "Wecht Daniel A MD",
         "YMCA"
       ]
     }
@@ -24041,7 +24040,7 @@
         "Glamorous Tanning And Specialty Boutique",
         "Grand Paws Pet Salon",
         "Kimpel\u0027s Jewelers, Inc.",
-        "New Dimension Comics \u0026 Games",
+        "New Dimension Comics - Ellwood City",
         "Posies By Patti",
         "Salvation Army",
         "Sportswear Graphics",
@@ -25107,7 +25106,6 @@
         }
       ],
       "places": [
-        "Dr. Suzanne R. Lucot, MD",
         "Eagles Club Ellwood",
         "Ellwood Animal Hospital",
         "Ellwood Animal Hospital: Annette Anléu DVM",
@@ -25119,6 +25117,7 @@
         "Fine Wine \u0026 Good Spirits",
         "Holloway Stephen R OD",
         "Human Services Center",
+        "Lucot Suzanne R MD",
         "Marion Family Dentistry",
         "Mc Kelvey\u0027s Appliances",
         "Michael N Perry Law Office",
@@ -26051,11 +26050,11 @@
         "Global Sign \u0026 Graphics",
         "Homewood United Methodist Church",
         "Interline Brands Inc",
-        "James Carline General Store",
         "Massachusetts USBC Women\u0027s Bowling Association",
         "Matthews Wall Anchor Service Inc",
         "Park Inn by Radisson Beaver Falls, PA",
         "Parking Buttermilk Falls -courtesy The Church",
+        "RBG Beaver Falls PA",
         "Sim\u0027s Bowling Lanes",
         "Super 8 by Wyndham Beaver Falls",
         "SupplyWorks"
@@ -26316,7 +26315,6 @@
         "Gobblers Knob Hunting Preserve",
         "Green Valley Veterinary Hospital",
         "James J Kerr Co",
-        "Jde Property Management",
         "Jesseman Auto",
         "Kaufman\u0027s Boarding Kennel",
         "Kristin K. Burton-Hall, VMD",
@@ -26324,6 +26322,7 @@
         "LAWNWORKS,INC",
         "Lifetouch",
         "Mark A Pflug Gen Contracting",
+        "McVay Benders",
         "NSPC LLC",
         "Novak Auto Parts Inc",
         "St John\u0027s Burry\u0027s Church",
@@ -26583,13 +26582,13 @@
         "7-Eleven",
         "ATM (7-Eleven)",
         "Bell Memorial Presbyterian Church",
+        "Boost Mobile",
         "Dibuono Robert J",
         "Ellwood Area Family Center",
         "Grand Finale",
-        "Gulf",
         "Holz Equipment Sales",
-        "Lighthouse Assembly-God Church",
         "North Side Elementary School",
+        "PA State Rep. Aaron Bernstine",
         "Rozzo Concrete",
         "S. LUCAS PAINTS",
         "Sabre-David Entertainment",
@@ -30954,8 +30953,7 @@
       "places": [
         "Belmont Road",
         "Ritts Park",
-        "Saint Peters Cemetery",
-        "Wave Audio"
+        "Saint Peters Cemetery"
       ]
     }
   },
@@ -32890,9 +32888,9 @@
         "Patty Kate Caterers",
         "Prospect Community Library",
         "Prospect Corner Store",
-        "Prospect Fire Hall",
         "Raisley Funeral Home",
         "Rambacher George DC",
+        "Specialty Precast",
         "Steel City Truck Bodies",
         "The Presbyterian Church of Prospect",
         "Turocy Refrigeration",
@@ -33728,6 +33726,7 @@
       ],
       "places": [
         "Harmony Cemetery",
+        "Nature\u0027s Defense",
         "ShuBrewery",
         "Wahl \u0026 Son\u0027s Family Practice",
         "Wahl Jeffry R MD",
@@ -34487,18 +34486,18 @@
       "longitude": -80.126379,
       "addressComponents": [
         {
-          "formattedAddress": "241 T335, Harmony, PA 16037, USA",
+          "formattedAddress": "245 Mercer St, Harmony, PA 16037, USA",
           "addressComponents": [
             {
-              "longName": "241",
-              "shortName": "241",
+              "longName": "245",
+              "shortName": "245",
               "types": [
                 "STREET_NUMBER"
               ]
             },
             {
-              "longName": "T335",
-              "shortName": "T335",
+              "longName": "Mercer Street",
+              "shortName": "Mercer St",
               "types": [
                 "ROUTE"
               ]
@@ -37059,6 +37058,7 @@
         }
       ],
       "places": [
+        "Brown Timothy A Md Pc",
         "CBL Path",
         "Crossbow Lounge",
         "Iannotti Realty Solutions Inc",
@@ -37073,7 +37073,6 @@
         "Sherwood Lanes",
         "St John the Baptist Byzantine Catholic Church",
         "State Representative Brian Ellis",
-        "Timothy A Brown Md Pc",
         "United States Postal Service",
         "Whitestown Chesapeake",
         "Yablonski, Costello \u0026 Leckie",
@@ -37344,7 +37343,7 @@
         "Associates In Ophthalmology: Skeens Heather MD",
         "Butler Area Rural Transit",
         "Butler Area Transit Authority",
-        "Child Care Resource Referral",
+        "Community Development Corporation of Butler County",
         "Craig S. Phillips, DC",
         "Dr. Brian H. Jewart, MD",
         "Dr. Daniel V. Zimmer, MD",
@@ -39246,7 +39245,7 @@
         "Sarah Wagner",
         "Susan Drolet Coneybeer, PsyD",
         "This \u0026 That",
-        "Trinity Hearing Aid",
+        "Wadding Financial Services",
         "White Olive Boutique"
       ]
     }
@@ -39964,7 +39963,7 @@
         "FRAMES \u0026 PIXELS, Inc.",
         "Frank N Cicco Custom Tailor",
         "Johanna McBride - Prudential Financial",
-        "Marcee Klixbull, LCSW",
+        "Kevin W. Daugherty, LPC",
         "North Street Service, LLC",
         "Steffish \u0026 Lafferty, PC",
         "Teresa English - Prudential Financial",
@@ -41125,11 +41124,11 @@
         "Jennifer D. Angert, CRNP",
         "Jennifer L. Wildpret, DO",
         "Pbs Mental Health Associates",
+        "Pbs Mental Health Associates: Dewolf William F MD",
         "Pbs Mental Health Associates: Koffmann Andrew PHD",
         "Pbs Mental Health Associates: Mc Kee Nancy",
         "Pbs Mental Health Associates: Rickert M Lynn PHD",
-        "Ruthane M. Durso, MA",
-        "Schreckengost Homer L Do - Butler Memorial Hospital"
+        "Ruthane M. Durso, MA"
       ]
     }
   },
@@ -42954,12 +42953,12 @@
         "D W Anton \u0026 Associates",
         "Le Jeune Window Cleaning",
         "Market Builders",
+        "Melissa Lohr Photography",
         "Motivational Promotions",
         "Motta Heating \u0026 Air Conditioning",
         "Pamela Mc Crumb Photography",
         "Schneider Services Inc",
         "Simile David J DC",
-        "Survey Tech",
         "Timber Creek Farm",
         "Time Is Money",
         "Wayne J Henchar Custom Construction",
@@ -44967,7 +44966,7 @@
         }
       ],
       "places": [
-        "Boyle\u0027s Landscape Services",
+        "100 NORTH HERMITAGE",
         "Colonial Manor Apartments",
         "Emily Rose Photography",
         "Fabian Cleaning Inc",
@@ -44975,6 +44974,7 @@
         "First National Bank ATM",
         "First National Trust Company",
         "Intecc",
+        "Keepsakes",
         "Ken Huffman",
         "Leana\u0027s Books \u0026 More",
         "Maurices",
@@ -44983,8 +44983,7 @@
         "Rairigh Michael D",
         "Regency Finance Company",
         "Spotless Office Cleaning Services",
-        "Unique Eyebrow \u0026 Spa",
-        "Winner Gun Land"
+        "Unique Eyebrow \u0026 Spa"
       ]
     }
   },
@@ -47010,7 +47009,7 @@
         "Laurel Cosmetic \u0026 Plastic Surgery",
         "McGill Dotty Stewart School of Dance",
         "Natural Options Massage And Health Center",
-        "Peachy\u0027s Therapeutic Massage",
+        "Peachy\u0027s Therapeutic Massage.",
         "Redesign Buy Consign",
         "Shannon\u0027s Kandy Kitchen",
         "Slender You of Grove City",
@@ -48750,7 +48749,8 @@
         }
       ],
       "places": [
-        "Church of Beloved Disciple"
+        "Church of Beloved Disciple",
+        "McClelland Land Services"
       ]
     }
   },
@@ -50257,12 +50257,12 @@
       ],
       "places": [
         "Baker Taxidermy",
+        "Big Meadows Beagles",
         "Bike Doctor",
         "Boston Computer Solutions",
         "Briandpark",
         "Castlewood Rod \u0026 Gun Club",
         "Freedom Run Equine Services, LLC",
-        "Hammer For Hire",
         "Harmony Baptist Church",
         "Hell\u0027s Hollow",
         "Hoffmeier Storage",
@@ -52220,12 +52220,12 @@
         "First National Bank",
         "First National Bank ATM",
         "Fresh Grounds Coffehouse",
-        "Good Shepherd Center Inc",
         "Greenville Tool Co.",
         "Jus 4 You",
         "Kan-Dew",
         "News Depot",
         "Padrone\u0027s Pizza",
+        "Ready Value Auto Sales",
         "Rumorz",
         "Squirrellys skin art inc",
         "Steph\u0027s Corner Pub \u0026 Grill"
@@ -57205,12 +57205,12 @@
         "Advanced Foot \u0026 Ankle Associates",
         "Advanced Kidney Care Med Associates",
         "Advanced Kidney Care Med Associates: Lupariello A D MD",
-        "Center For Wound Care at UPMC Jameson",
         "Cialella \u0026 Carney Florists",
         "Ed \u0026 Don DeCarbo Funeral Home \u0026 Crematory, Inc.",
         "Faraone Brothers",
         "Horizon Co",
         "Jameson Behavioral Health",
+        "Jameson Hospice",
         "Jameson Hospital: Dappert Barbara A MD",
         "Jameson School of Radiography",
         "Medevac Ambulance",
@@ -58278,6 +58278,71 @@
       "latitude": 41.215047,
       "longitude": -80.504751,
       "addressComponents": [
+        {
+          "formattedAddress": "909 Lee Ave, Farrell, PA 16121, USA",
+          "addressComponents": [
+            {
+              "longName": "909",
+              "shortName": "909",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Lee Avenue",
+              "shortName": "Lee Ave",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Farrell",
+              "shortName": "Farrell",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16121",
+              "shortName": "16121",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1028",
+              "shortName": "1028",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
         {
           "formattedAddress": "Farrell, PA, USA",
           "addressComponents": [
@@ -60242,7 +60307,7 @@
         "Northwest Regional Cardiology: Wawrzynski Paul MD",
         "Oncology Hematology: Simon Sheryl R MD",
         "Preston Honda",
-        "Psycare Inc: Richardson W Randolph MD",
+        "Psycare Inc:Randolph Richardson W MD",
         "Steines William R DDS",
         "Tri County Medical",
         "Tuesday Morning",
@@ -63189,10 +63254,10 @@
         "Aetna Freight Lines",
         "Dairy Queen",
         "Dollar General",
-        "Dr. Aaron J. Listopad, DO",
         "Golden Bear Tavern",
         "Hampton Inn \u0026 Suites Sharon",
         "Holiday Inn Express \u0026 Suites Sharon-Hermitage",
+        "Listopad Aaron J DO",
         "Oakview Elementary School",
         "Park Inn by Radisson Sharon, PA",
         "Pizzas By Marchelloni",
@@ -64328,6 +64393,8 @@
       ],
       "places": [
         "ATS",
+        "Ansgar Construction LLC",
+        "Arisfor",
         "Bankers Life",
         "Christ Presbyterian Church",
         "Episcopal Church of the Epiphany",
@@ -64340,6 +64407,7 @@
         "Linell Corporation",
         "Millham Enterprises",
         "Moore Insurance Agency Inc.",
+        "Petty Robert J DDS",
         "Thrash Christina OD",
         "Village Park Family Dental Center"
       ]
@@ -65089,8 +65157,8 @@
       "places": [
         "Eastern Bible Conference",
         "Grove City College",
-        "Grove City College Campus Crusade for Christ",
         "Grove City College Republicans",
+        "Harker Residence Hall",
         "Mary Ethel Pew (MEP) Residence Hall",
         "Rathburn Hall",
         "Science, Engineering and Math (STEM) Hall,Grove City College",
@@ -76248,7 +76316,6 @@
         }
       ],
       "places": [
-        "A Cut Above",
         "ATM",
         "Ameriprise Financial",
         "Barley House Brewing Taproom and Grill",
@@ -76262,6 +76329,7 @@
         "Mercer County Children \u0026 Youth Services",
         "Mercer County Emergency Services",
         "Mercer County Mental Health",
+        "Mercer Drug Treatment Centers",
         "Mercer Woodworking \u0026 Kitchens Inc",
         "Probation \u0026 Parole Board",
         "Pymatuning Mutual Fire Insurance Co",
@@ -78277,9 +78345,9 @@
         "Animal Dental Clinic-Pttsbrgh",
         "Caldwell School",
         "Camp With Horses",
+        "Circle Z Bar Ranch",
         "Delaware Concrete Products",
         "Delaware Twp Supervisor",
-        "Denny\u0027s Gun Repair",
         "Derr Industries",
         "Fredonia tire company",
         "High Point Farm Market",
@@ -78805,7 +78873,243 @@
     "gymInfo": {
       "gymDescription": "",
       "latitude": 41.158523,
-      "longitude": -80.097873
-	}
+      "longitude": -80.097873,
+      "addressComponents": [
+        {
+          "formattedAddress": "819 Columbia Ave, Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "819",
+              "shortName": "819",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Columbia Avenue",
+              "shortName": "Columbia Ave",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "1343",
+              "shortName": "1343",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Grove City, PA 16127, USA",
+          "addressComponents": [
+            {
+              "longName": "16127",
+              "shortName": "16127",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Grove City",
+              "shortName": "Grove City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Mercer County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Youngstown-Warren-Boardman, OH-PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Youngstown-Warren-Boardman, OH-PA",
+              "shortName": "Youngstown-Warren-Boardman, OH-PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Broadway Bound Musical Theatre Day Camp",
+        "Highland Primary Center",
+        "Holy Trinity Lutheran Church",
+        "Robert Mc Graw Transportation"
+      ]
+    }
   }
 ]
