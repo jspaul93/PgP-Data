@@ -1,5 +1,1465 @@
 [
   {
+    "gymId": "100001",
+    "gymName": "Westminster College (Fractured Grape)",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.1225398,
+      "longitude": -80.332974,
+      "addressComponents": [
+        {
+          "formattedAddress": "115a PA-208, New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "115a",
+              "shortName": "115a",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Pennsylvania 208",
+              "shortName": "PA-208",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Body Beautiful Laser Medi Spa",
+        "Dr. Mary C. Tanyel, MD",
+        "First National Bank",
+        "First National Bank ATM",
+        "Flowers On Vine",
+        "Fractured Grape Wine Cellars",
+        "Haines Realty",
+        "Huntington Bank",
+        "Mugsies Coffee House LLC",
+        "New Wilmington Borough Building",
+        "New Wilmington Police Department",
+        "New Wilmington Psychotherapy \u0026 Counseling LLC Lawrence Cross MA MSW LCSW",
+        "Pizza Joe\u0027s",
+        "Rite Aid",
+        "The Silk Road Market",
+        "The Tavern on the Square",
+        "United Methodist Church",
+        "Wilson\u0027s Lumber \u0026 Building",
+        "Wright Place Salon"
+      ]
+    }
+  },
+  {
+    "gymId": "100002",
+    "gymName": "Hoyt Winter Cat Painting (Hoyt Science Center)",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.1192281,
+      "longitude": -80.3286919,
+      "addressComponents": [
+        {
+          "formattedAddress": "Hoyt Science Resources Center, New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "Hoyt Science Resources Center",
+              "shortName": "Hoyt Science Resources Center",
+              "types": [
+                "PREMISE"
+              ]
+            },
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Westminster Dr, New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "Westminster Drive",
+              "shortName": "Westminster Dr",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Beeghly Theater",
+        "Burry Stadium / Memorial Field",
+        "Buzz Ridl Gymnasium",
+        "Foster Art Gallery, Westminster College",
+        "Lawrence \u0026 Mercer ALLARM",
+        "Orr Auditorium",
+        "Witherspoon Room in McKelvey Campus Center"
+      ]
+    }
+  },
+  {
+    "gymId": "100003",
+    "gymName": "Maple Grove Mennonite Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.092595,
+      "longitude": -80.3231934,
+      "addressComponents": [
+        {
+          "formattedAddress": "3100 PA-956, New Castle, PA 16105, USA",
+          "addressComponents": [
+            {
+              "longName": "3100",
+              "shortName": "3100",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Pennsylvania 956",
+              "shortName": "PA-956",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "New Castle",
+              "shortName": "New Castle",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Wilmington Township",
+              "shortName": "Wilmington Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16105",
+              "shortName": "16105",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "4128",
+              "shortName": "4128",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Wilmington Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Wilmington Township",
+              "shortName": "Wilmington Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA 16105, USA",
+          "addressComponents": [
+            {
+              "longName": "16105",
+              "shortName": "16105",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "New Castle",
+              "shortName": "New Castle",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Brian K Swisher Trucking Co",
+        "Bud Horchler Advertising",
+        "Byler\u0027s Grocery Store",
+        "Ecoquest Independnent Dealer",
+        "Kail Testing Laboratories",
+        "Maple Grove Church",
+        "Marti Park",
+        "McFarland Airport",
+        "O 3 Technologies",
+        "The Jacqueline House of Wilmington",
+        "Valley Home Farm",
+        "Wilmington Twp Community Building"
+      ]
+    }
+  },
+  {
+    "gymId": "100004",
+    "gymName": "Volant Fire Department",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.112781,
+      "longitude": -80.2577461,
+      "addressComponents": [
+        {
+          "formattedAddress": "971 PA-208, Volant, PA 16156, USA",
+          "addressComponents": [
+            {
+              "longName": "971",
+              "shortName": "971",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Pennsylvania 208",
+              "shortName": "PA-208",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Volant",
+              "shortName": "Volant",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16156",
+              "shortName": "16156",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "7019",
+              "shortName": "7019",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Volant, PA 16156, USA",
+          "addressComponents": [
+            {
+              "longName": "Volant",
+              "shortName": "Volant",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16156",
+              "shortName": "16156",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Volant, PA 16156, USA",
+          "addressComponents": [
+            {
+              "longName": "16156",
+              "shortName": "16156",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Volant",
+              "shortName": "Volant",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Candleford Inn",
+        "Great American Adventures",
+        "James Creek Galleries",
+        "Kitchen Shoppe",
+        "Marett Carpet One Floor \u0026 Home",
+        "Miss Scarlett\u0027s Gift Parlor",
+        "Native \u0026 Nature",
+        "Neshannock Creek Fly Shop Inc",
+        "Neshannock Creek Inn Restaurant",
+        "Northwest Bank",
+        "Rich Hill Cemetery Association",
+        "Shoppe At River\u0027s Edge",
+        "Special Teas Etc",
+        "The Barns at Potter Run Landing",
+        "Volant Cemetery",
+        "Volant Community Development Corporation",
+        "Volant Mill Winery",
+        "Volant Mills",
+        "Weaver\u0027s Amish House of Furniture"
+      ]
+    }
+  },
+  {
+    "gymId": "100005",
+    "gymName": "Pulaski Presbyterian Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.1120232,
+      "longitude": -80.4337527,
+      "addressComponents": [
+        {
+          "formattedAddress": "110 Liberty St, Pulaski, PA 16143, USA",
+          "addressComponents": [
+            {
+              "longName": "110",
+              "shortName": "110",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Liberty Street",
+              "shortName": "Liberty St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Pulaski",
+              "shortName": "Pulaski",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pulaski Township",
+              "shortName": "Pulaski Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16143",
+              "shortName": "16143",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "230 Shenango St, Pulaski, PA 16143, USA",
+          "addressComponents": [
+            {
+              "longName": "230",
+              "shortName": "230",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Shenango Street",
+              "shortName": "Shenango St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Pulaski",
+              "shortName": "Pulaski",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pulaski Township",
+              "shortName": "Pulaski Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16143",
+              "shortName": "16143",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pulaski, PA 16143, USA",
+          "addressComponents": [
+            {
+              "longName": "16143",
+              "shortName": "16143",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "Pulaski",
+              "shortName": "Pulaski",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pulaski Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Pulaski Township",
+              "shortName": "Pulaski Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "ACV Enviro",
+        "Brew 32",
+        "Cox\u0027s Corner",
+        "Foltz Construction",
+        "Housing Authority of the County Of",
+        "Lane Enterprises Inc",
+        "Mobile Mini - Tank + Pump",
+        "Nova Cellars Winery",
+        "Nova Destinations",
+        "Osborne\u0027s \u0026 Sons Trapper Supply",
+        "Pulaski Flea Market",
+        "Pulaski Presbyterian Church",
+        "Pulaski United Methodist Church",
+        "R.G. Steel Corporation",
+        "Simply Branded LLC",
+        "United States Postal Service",
+        "Wallace Builders",
+        "Westfield",
+        "Young Galvanizing Inc"
+      ]
+    }
+  },
+  {
     "gymId": "100006",
     "gymName": "Bessie",
     "gymInfo": {
@@ -4942,6 +6402,7 @@
         "Ciambotti Jennifer A DO",
         "DiLorenzo\u0027s Specialty Deli - Bakery - Catering",
         "Donald R Mc Camant Inc: Duda Stephanie",
+        "Dr. Curtis M. Jantzi, DO",
         "Great Depths Seafood",
         "Listopad Ciambotti And Lange Mds",
         "Listopad Cunningham \u0026 Associates: Suler Sima MD",
@@ -4950,7 +6411,6 @@
         "Lori Rollinson\u0027s Hair Boutique",
         "Mary Ann Marriott, RPH",
         "Mehler Insurance",
-        "Patricia D. Moore, CMT",
         "Rite Aid",
         "Sharpsville Plaza",
         "Stan Alfredo Insurance",
@@ -9462,6 +10922,266 @@
         "Wheatland Secretary",
         "Wheatland Tax Office",
         "Wilbert L Shannon Funeral Home"
+      ]
+    }
+  },
+  {
+    "gymId": "100044",
+    "gymName": "US Post Office, West Middlesex",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.172807,
+      "longitude": -80.457698,
+      "addressComponents": [
+        {
+          "formattedAddress": "2 Fair St, West Middlesex, PA 16159, USA",
+          "addressComponents": [
+            {
+              "longName": "2",
+              "shortName": "2",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Fair Street",
+              "shortName": "Fair St",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "West Middlesex",
+              "shortName": "West Middlesex",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16159",
+              "shortName": "16159",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "West Middlesex, PA 16159, USA",
+          "addressComponents": [
+            {
+              "longName": "West Middlesex",
+              "shortName": "West Middlesex",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Shenango Township",
+              "shortName": "Shenango Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16159",
+              "shortName": "16159",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "West Middlesex, PA 16159, USA",
+          "addressComponents": [
+            {
+              "longName": "16159",
+              "shortName": "16159",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "West Middlesex",
+              "shortName": "West Middlesex",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Mercer County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Mercer County",
+              "shortName": "Mercer County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Youngstown-Warren-Boardman, OH-PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Youngstown-Warren-Boardman, OH-PA",
+              "shortName": "Youngstown-Warren-Boardman, OH-PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Aetna Freight Lines",
+        "Dairy Queen",
+        "Dollar General",
+        "Golden Bear Tavern",
+        "Hampton Inn \u0026 Suites Sharon",
+        "Holiday Inn Express \u0026 Suites Sharon-Hermitage",
+        "Listopad Aaron J DO",
+        "Oakview Elementary School",
+        "Park Inn by Radisson Sharon, PA",
+        "Pizzas By Marchelloni",
+        "Quality Inn",
+        "Red Roof Inn \u0026 Suites Hermitage",
+        "Regenex Corporation",
+        "Riise Inc",
+        "Shooters Supplies",
+        "SignMaster Studio",
+        "Subway Restaurants",
+        "Super 8 by Wyndham West Middlesex/Sharon Area"
       ]
     }
   },
@@ -30837,6 +32557,7 @@
         "Coventry",
         "East Penn Street Public Parking Lot",
         "Elaine F. Seth, MA",
+        "George Fyke",
         "Kimberly A. Soley, MSW",
         "Lawrence M. Kenney DMD",
         "Levin Michelle",
@@ -30847,7 +32568,6 @@
         "Sarah Wagner",
         "Susan Drolet Coneybeer, PsyD",
         "This \u0026 That",
-        "Wadding Financial Services",
         "White Olive Boutique"
       ]
     }
@@ -31565,7 +33285,7 @@
         "FRAMES \u0026 PIXELS, Inc.",
         "Frank N Cicco Custom Tailor",
         "Johanna McBride - Prudential Financial",
-        "Marcee Klixbull, LCSW",
+        "Kevin W. Daugherty, LPC",
         "North Street Service, LLC",
         "Steffish \u0026 Lafferty, PC",
         "Teresa English - Prudential Financial",
@@ -33593,6 +35313,288 @@
       ],
       "places": [
         "Parking Lot"
+      ]
+    }
+  },
+  {
+    "gymId": "100199",
+    "gymName": "Slippery Rock Mausoleum ",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 40.880213,
+      "longitude": -80.263137,
+      "addressComponents": [
+        {
+          "formattedAddress": "266 Slippery Rock Dr, Ellwood City, PA 16117, USA",
+          "addressComponents": [
+            {
+              "longName": "266",
+              "shortName": "266",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Slippery Rock Drive",
+              "shortName": "Slippery Rock Dr",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "Ellwood City",
+              "shortName": "Ellwood City",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Wayne Township",
+              "shortName": "Wayne Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16117",
+              "shortName": "16117",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "6844",
+              "shortName": "6844",
+              "types": [
+                "POSTAL_CODE_SUFFIX"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Wayne Township, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Wayne Township",
+              "shortName": "Wayne Township",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_3",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA 16101, USA",
+          "addressComponents": [
+            {
+              "longName": "16101",
+              "shortName": "16101",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "New Castle",
+              "shortName": "New Castle",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "AMERIKOHL AGGREGATES INC",
+        "Berean Presbyterian Church",
+        "Dish Today",
+        "Ellwood Area Senior Center",
+        "Fresenius Kidney Care Ellwood City",
+        "Fresenius Medical Care: Lawlor Maureen MD",
+        "Lawrence County Agency-Aging",
+        "Marshall Tree Experts",
+        "Pearsall Complete Auto Care Plus",
+        "Reed\u0027s Services Inc",
+        "Slippery Rock Presbyterian Cemetary",
+        "Slippery Rock Presbyterian Cemetery",
+        "Squaw Run Stables",
+        "Surface Design",
+        "Wayne Township Volunteer Fire Department",
+        "Yellow Ribbon Girls"
       ]
     }
   },
@@ -41639,7 +43641,7 @@
     }
   },
   {
-    "gymId": "101026",
+    "gymId": "101023",
     "gymName": "Ewing Park Gazebo",
     "gymInfo": {
       "gymDescription": "",
@@ -41900,7 +43902,7 @@
     }
   },
   {
-    "gymId": "101027",
+    "gymId": "101024",
     "gymName": "Chamber of Commerce",
     "gymInfo": {
       "gymDescription": "",
@@ -42225,7 +44227,7 @@
     }
   },
   {
-    "gymId": "101169",
+    "gymId": "101166",
     "gymName": "Thiel College Softball Field",
     "gymInfo": {
       "gymDescription": "",
@@ -42451,7 +44453,7 @@
     }
   },
   {
-    "gymId": "101170",
+    "gymId": "101167",
     "gymName": "Cunningham Memorial Park",
     "gymInfo": {
       "gymDescription": "",
@@ -42688,7 +44690,7 @@
     }
   },
   {
-    "gymId": "101171",
+    "gymId": "101168",
     "gymName": "Praying Jesus Statue",
     "gymInfo": {
       "gymDescription": "",
@@ -42934,7 +44936,7 @@
     }
   },
   {
-    "gymId": "101172",
+    "gymId": "101169",
     "gymName": "Riverside Park Graul Amphitheater",
     "gymInfo": {
       "gymDescription": "",
@@ -43162,7 +45164,7 @@
     }
   },
   {
-    "gymId": "101173",
+    "gymId": "101170",
     "gymName": "Railroad Park",
     "gymInfo": {
       "gymDescription": "",
@@ -43412,7 +45414,7 @@
     }
   },
   {
-    "gymId": "101174",
+    "gymId": "101171",
     "gymName": "Spruce Cove Pavilion",
     "gymInfo": {
       "gymDescription": "",
@@ -43656,7 +45658,7 @@
     }
   },
   {
-    "gymId": "101175",
+    "gymId": "101172",
     "gymName": "McGuffey Wildlife Preserve",
     "gymInfo": {
       "gymDescription": "",
@@ -43907,7 +45909,7 @@
     }
   },
   {
-    "gymId": "101176",
+    "gymId": "101173",
     "gymName": "Optimist Bocci Court",
     "gymInfo": {
       "gymDescription": "",
@@ -44158,7 +46160,7 @@
     }
   },
   {
-    "gymId": "101177",
+    "gymId": "101174",
     "gymName": "Brookfield Gazebo",
     "gymInfo": {
       "gymDescription": "",
@@ -44463,7 +46465,7 @@
         "Kokor Robert C",
         "Lane Madasz Chapel",
         "Logan \u0026 Co Screen Printers",
-        "Northeast Oh Foot Ankle",
+        "Nunc Soft",
         "Supe\u0027s Sports Cards",
         "Trunick Gallery",
         "Village Green Veterinary Service, Inc.",
@@ -44472,7 +46474,7 @@
     }
   },
   {
-    "gymId": "101178",
+    "gymId": "101175",
     "gymName": "Sharon American Legion War Memorial",
     "gymInfo": {
       "gymDescription": "",
@@ -44726,7 +46728,7 @@
     }
   },
   {
-    "gymId": "101179",
+    "gymId": "101176",
     "gymName": "Statutes of Frank H and Julia F.Buhl",
     "gymInfo": {
       "gymDescription": "",
@@ -44960,7 +46962,7 @@
     }
   },
   {
-    "gymId": "101180",
+    "gymId": "101177",
     "gymName": "Buhl Park Casino",
     "gymInfo": {
       "gymDescription": "",
@@ -45189,7 +47191,7 @@
     }
   },
   {
-    "gymId": "101181",
+    "gymId": "101178",
     "gymName": "Little Lending Library",
     "gymInfo": {
       "gymDescription": "",
@@ -45418,7 +47420,7 @@
     }
   },
   {
-    "gymId": "101182",
+    "gymId": "101179",
     "gymName": "Brandy Springs Dog Park",
     "gymInfo": {
       "gymDescription": "",
@@ -45655,7 +47657,7 @@
     }
   },
   {
-    "gymId": "101183",
+    "gymId": "101180",
     "gymName": "Brandy Springs Rotary Club Pavilion",
     "gymInfo": {
       "gymDescription": "",
@@ -45889,7 +47891,7 @@
     }
   },
   {
-    "gymId": "101184",
+    "gymId": "101181",
     "gymName": "Acker Gazebo",
     "gymInfo": {
       "gymDescription": "",
@@ -46126,7 +48128,7 @@
     }
   },
   {
-    "gymId": "101185",
+    "gymId": "101182",
     "gymName": "Seth Myers Nature Trail",
     "gymInfo": {
       "gymDescription": "",
@@ -46369,7 +48371,7 @@
     }
   },
   {
-    "gymId": "101186",
+    "gymId": "101183",
     "gymName": "Hermitage Municipal Building Waterfall",
     "gymInfo": {
       "gymDescription": "",
@@ -46616,7 +48618,7 @@
     }
   },
   {
-    "gymId": "101187",
+    "gymId": "101184",
     "gymName": "Whispering Pines Community Park",
     "gymInfo": {
       "gymDescription": "",
@@ -46850,7 +48852,7 @@
     }
   },
   {
-    "gymId": "101188",
+    "gymId": "101185",
     "gymName": "Yellow \"M\" at First National Bank",
     "gymInfo": {
       "gymDescription": "",
@@ -47089,8 +49091,8 @@
         "First National Bank",
         "First National Bank ATM",
         "First National Trust Company",
-        "Horizon Surgical Associates Upmc",
         "Intecc",
+        "Keepsakes",
         "Ken Huffman",
         "Leana\u0027s Books \u0026 More",
         "Mercer County Bar Association",
@@ -47103,7 +49105,7 @@
     }
   },
   {
-    "gymId": "101189",
+    "gymId": "101186",
     "gymName": "Green Checkmark Statue",
     "gymInfo": {
       "gymDescription": "",
@@ -47347,7 +49349,7 @@
     }
   },
   {
-    "gymId": "101190",
+    "gymId": "101187",
     "gymName": "Wetlands Are Important to Watersheds",
     "gymInfo": {
       "gymDescription": "",
@@ -47581,7 +49583,7 @@
     }
   },
   {
-    "gymId": "101191",
+    "gymId": "101188",
     "gymName": "Clark Borough Public Park",
     "gymInfo": {
       "gymDescription": "",
@@ -47829,7 +49831,7 @@
     }
   },
   {
-    "gymId": "101201",
+    "gymId": "101198",
     "gymName": "Civilian Conservation Corps Statue",
     "gymInfo": {
       "gymDescription": "",
@@ -48079,7 +50081,7 @@
     }
   },
   {
-    "gymId": "101202",
+    "gymId": "101199",
     "gymName": "Old Cascade Park Gate House",
     "gymInfo": {
       "gymDescription": "",
@@ -48331,7 +50333,7 @@
     }
   },
   {
-    "gymId": "101203",
+    "gymId": "101200",
     "gymName": "Darlington Park Caboose",
     "gymInfo": {
       "gymDescription": "",
@@ -48600,7 +50602,7 @@
     }
   },
   {
-    "gymId": "101204",
+    "gymId": "101201",
     "gymName": "New Castle Amphitheatre Fountain",
     "gymInfo": {
       "gymDescription": "",
@@ -48857,7 +50859,7 @@
     }
   },
   {
-    "gymId": "101208",
+    "gymId": "101205",
     "gymName": "Memorial Gardens",
     "gymInfo": {
       "gymDescription": "",
@@ -49085,7 +51087,7 @@
     }
   },
   {
-    "gymId": "101209",
+    "gymId": "101206",
     "gymName": "Grove City Honor Roll",
     "gymInfo": {
       "gymDescription": "",
@@ -49318,7 +51320,7 @@
     }
   },
   {
-    "gymId": "101210",
+    "gymId": "101207",
     "gymName": "The Civil War, 1812",
     "gymInfo": {
       "gymDescription": "",
@@ -49558,7 +51560,7 @@
     }
   },
   {
-    "gymId": "101211",
+    "gymId": "101208",
     "gymName": "Slippery Rock Community Library",
     "gymInfo": {
       "gymDescription": "",
@@ -49809,7 +51811,7 @@
     }
   },
   {
-    "gymId": "101213",
+    "gymId": "101210",
     "gymName": "Butler War Memorial 1914-1918",
     "gymInfo": {
       "gymDescription": "",
@@ -50208,7 +52210,7 @@
     }
   },
   {
-    "gymId": "101214",
+    "gymId": "101211",
     "gymName": "Union Workers Bridge Monument ",
     "gymInfo": {
       "gymDescription": "",
@@ -50458,7 +52460,7 @@
     }
   },
   {
-    "gymId": "101215",
+    "gymId": "101212",
     "gymName": "CCC Flag Pole",
     "gymInfo": {
       "gymDescription": "",
