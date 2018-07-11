@@ -1,52 +1,16 @@
 {
-  "new-wilmington": [
-    "shenango-valley",
-    "mercer",
-    "grove-city",
-    "slippery-rock",
-    "new-castle"
-  ],
   "brookfield-hubbard": [
     "shenango-valley"
   ],
   "shenango-valley": [
-    "new-wilmington",
-    "brookfield-hubbard",
-    "mercer",
-    "greenville-sandylake"
+    "brookfield-hubbard"
   ],
-  "mercer": [
-    "new-wilmington",
-    "shenango-valley",
-    "greenville-sandylake",
-    "grove-city"
-  ],
-  "greenville-sandylake": [
-    "shenango-valley",
-    "mercer"
-  ],
-  "grove-city": [
-    "new-wilmington",
-    "mercer",
-    "slippery-rock"
-  ],
-  "slippery-rock": [
-    "new-wilmington",
-    "grove-city",
-    "butler",
-    "new-castle"
-  ],
-  "butler": [
-    "slippery-rock",
-    "ellwood-city"
-  ],
-  "new-castle": [
-    "new-wilmington",
-    "slippery-rock",
-    "ellwood-city"
-  ],
-  "ellwood-city": [
-    "butler",
-    "new-castle"
-  ]
+  "mercer": [],
+  "greenville": [],
+  "grove-city": [],
+  "slippery-rock": [],
+  "butler": [],
+  "new-castle": [],
+  "ellwood-city": [],
+  "stoneboro": []
 }
