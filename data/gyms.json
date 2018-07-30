@@ -1,5 +1,272 @@
 [
   {
+    "gymId": "100000",
+    "gymName": "New Wilmington Alliance Church",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 41.123118,
+      "longitude": -80.335708,
+      "addressComponents": [
+        {
+          "formattedAddress": "342 Landon Ave, New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "342",
+              "shortName": "342",
+              "types": [
+                "STREET_NUMBER"
+              ]
+            },
+            {
+              "longName": "Landon Avenue",
+              "shortName": "Landon Ave",
+              "types": [
+                "ROUTE"
+              ]
+            },
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Wilmington, PA 16142, USA",
+          "addressComponents": [
+            {
+              "longName": "16142",
+              "shortName": "16142",
+              "types": [
+                "POSTAL_CODE"
+              ]
+            },
+            {
+              "longName": "New Wilmington",
+              "shortName": "New Wilmington",
+              "types": [
+                "LOCALITY",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Lawrence County, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "New Castle, PA, PA, USA",
+          "addressComponents": [
+            {
+              "longName": "New Castle, PA",
+              "shortName": "New Castle, PA",
+              "types": [
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Lawrence County",
+              "shortName": "Lawrence County",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_2",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "Pennsylvania, USA",
+          "addressComponents": [
+            {
+              "longName": "Pennsylvania",
+              "shortName": "PA",
+              "types": [
+                "ADMINISTRATIVE_AREA_LEVEL_1",
+                "POLITICAL"
+              ]
+            },
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        },
+        {
+          "formattedAddress": "United States",
+          "addressComponents": [
+            {
+              "longName": "United States",
+              "shortName": "US",
+              "types": [
+                "COUNTRY",
+                "POLITICAL"
+              ]
+            }
+          ]
+        }
+      ],
+      "places": [
+        "Alice\u0027s Pizza/Sweet Chessie\u0027s Bakery",
+        "Bible school",
+        "Brandy L. Sanford, ATC",
+        "Chiropractic Way,",
+        "Chiropractic Way, Dr. Justin W. Sheffler",
+        "Dr. Mary C. Tanyel, MD",
+        "FAST GAS",
+        "Family Medical Care Of Lawrence",
+        "Family Medical Care-Lawrence: Mansell John L MD",
+        "Gardner III James L MD",
+        "Haines Realty",
+        "Mathews Timothy",
+        "Neshannock Presbyterian Church",
+        "New Wilmington Alliance Church",
+        "New Wilmington Borough Office",
+        "Reds Place For Car Care",
+        "Smith Funeral Home Ltd"
+      ]
+    }
+  },
+  {
     "gymId": "100001", 
     "gymName": "Westminster College (Fractured Grape)",
     "gymInfo": {
